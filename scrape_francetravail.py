@@ -8,16 +8,8 @@ import time
 from datetime import datetime, timedelta
 
 
-# Set up the Selenium WebDriver
-options = webdriver.ChromeOptions()
-options.add_argument("--headless")  # Run in headless mode
-driver = webdriver.Chrome(options=options)
-
-# Base URL for FranceTravail job search
-base_url = "https://candidat.pole-emploi.fr/offres/recherche?lieux=01P"
-
 # Function to scrape job postings using Selenium
-def scrape_francetravail_jobs_selenium(max_pages=2):
+def scrape_francetravail_jobs_selenium(max_pages=2, base_url=None, domaine='A'):
     """
     Scrapes job postings from FranceTravail using Selenium.
 
@@ -57,16 +49,22 @@ def scrape_francetravail_jobs_selenium(max_pages=2):
                     # Add the job URL to the set of scraped URLs
                     scraped_urls.add(job_url)
 
+                    driver.get(job_url)  # Visit the job offer page
+    
+                    # Extract address details
+                    region = driver.find_element(By.CSS_SELECTOR, 'span[itemprop="addressRegion"]').get_attribute("content")
+
+                    #Extract salary description
+                    salary = driver.find_element(By.CSS_SELECTOR, 'dd[itemprop="workHours"]').text
+                    salary += " " + driver.find_element(By.CSS_SELECTOR, 'dd span[itemprop="baseSalary"] + ul li:first-child').text
+
+
                     # Extract job title
                     title = job.find('h2', class_='t4').get_text(strip=True) if job.find('h2', class_='t4') else None
 
                     # Extract company name (your logic retained)
                     subtext = job.find('p', class_='subtext')
                     company = subtext.contents[0].get_text(strip=True).split('\n')[0] if subtext else None
-
-                    # Extract location
-                    location_span = subtext.find('span') if subtext else None
-                    location = location_span.get_text(strip=True).split(" - ")[-1] if location_span else None
 
                     # Extract job description
                     description = job.find('p', class_='description').get_text(strip=True) if job.find('p', class_='description') else None
@@ -105,14 +103,16 @@ def scrape_francetravail_jobs_selenium(max_pages=2):
 
                     # Append the job details to the list
                     job_list.append({
-                        'title': title,
-                        'company': company,
-                        'location': location,
-                        # 'description': description,
-                        'employment_type': employment_type,
-                        'contract_type': contract_type,
-                        'date_posted': date_posted,
-                        'job_url': job_url,
+                        'intitulé': title,
+                        'catégorie': domaine,
+                        'entreprise': company,
+                        'localisation': region,
+                        'type_contrat': employment_type,
+                        'temps_contrat': contract_type,
+                        'date_publication': date_posted,
+                        'url': job_url,
+                        'salaire': salary,
+                        'description': description,
                     })
                 except Exception as e:
                     print(f"Error parsing job: {e}")
@@ -135,11 +135,44 @@ def scrape_francetravail_jobs_selenium(max_pages=2):
 
 # Main script
 if __name__ == "__main__":
-    max_pages_to_scrape = 5  # Number of "Afficher les 20 offres suivantes" clicks
+    
+    domaines = {
+        "F": "Bâtiment / Travaux Publics",
+        "D": "Commerce / Vente",
+        "E": "Communication / Multimédia",
+        "M14": "Conseil / Etudes",
+        "M13": "Direction d'entreprise",
+        "A": "Espaces verts et naturels / Agriculture / Pêche / Soins aux animaux",
+        "G": "Hôtellerie - Restauration / Tourisme / Animation",
+        "C15": "Immobilier",
+        "H": "Industrie",
+        "M18": "Informatique / Télécommunication",
+        "I": "Installation / Maintenance",
+        "M17": "Marketing / Stratégie commerciale",
+        "M15": "Ressources Humaines",
+        "J": "Santé",
+        "M16": "Secrétariat / Assistanat",
+        "K": "Services à la personne / à la collectivité",
+        "L": "Spectacle",
+        "L14": "Sport",
+        "N": "Transport / Logistique",
+    }
+    
+    jobs = []
+
+    max_pages_to_scrape = 1  # Number of "Afficher les 20 offres suivantes" clicks
     print("Scraping job postings from FranceTravail...")
 
-    # Scrape job postings
-    jobs = scrape_francetravail_jobs_selenium(max_pages=max_pages_to_scrape)
+    for code , domaine in domaines.items():
+        # Set up the Selenium WebDriver
+        options = webdriver.ChromeOptions()
+        options.add_argument("--headless")  # Run in headless mode
+        driver = webdriver.Chrome(options=options)
+        # Base URL for FranceTravail job search
+        base_url = f"https://candidat.pole-emploi.fr/offres/recherche?domaine={code}&lieux=01P"
+
+        # Scrape job postings
+        jobs.extend(scrape_francetravail_jobs_selenium(max_pages=max_pages_to_scrape, base_url=base_url, domaine=domaine))
 
     # Convert the job list to a DataFrame
     df = pd.DataFrame(jobs)

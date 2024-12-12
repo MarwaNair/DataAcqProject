@@ -1,96 +1,1170 @@
-title,company,location,employment_type,contract_type,date_posted,job_url
-Opérateur de production  (H/F),TELLIER PROTEC CHEMILLE,CHEMILLE EN ANJOU,CDD,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMGH
-Tailleur- Tailleuse de pommiers (H/F),LES VERGERS DU PETIT LAURENT,EYGURANDE ET GARDEDEUIL,CDD,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMGG
-MÉCANICIEN MONTEUR (H/F),RANDSTAD,BRAUD ET ST LOUIS,Intérim,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMGF
-Façadier (H/F),GUMUS SAS,OYTIER ST OBLAS,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMGD
-Technicien de maintenance en électronique F/H,SYNERGIE INDUSTRIE/BTP,Reims,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMGC
-Gestionnaire de paie (H/F),LES INTERIMAIRES PROFESSIONNELS TERTIAIR,CLERMONT FERRAND,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMFX
-POEC - Formation et Emploi - ELS (H/F),INTERMARCHE,BORDEAUX,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMFW
-Gérant franchisé d'un grand magasin VIDE GRENIER permanent (H/F),ELYSEE CONCEPT,Hénin-Beaumont,Franchise,Non renseigné,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMFV
-Conseiller commercial (H/F),HARMONIE MEDICAL SERVICE,Viriat,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMFT
-FACADIER (H/F),LES INTERIMAIRES PROFESSIONNELS INDUSTRI,Metz,Intérim,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMFS
-Assistant / Assistante d'éducation (H/F),COLLEGE JEAN AMANS,PONT DE SALARS,CDD,Temps partiel,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMFQ
-Auxiliaire de vie Pessac (H/F),VITALLIANCE,PESSAC,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMFN
-Technicien-ne d'Assistance Informatique   (H/F),NEA IDF,Ile-de-France,CDD,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMFM
-Serveur / Serveuse de restaurant  (H/F),LUC MEDARD & SAVEUR,PARIS 18,CDD,Temps partiel,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMFL
-Serveur / Serveuse H/F,H ET C CONSEIL,NARBONNE,CDD,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMFK
-Electromécanicien (H/F),INTER'S,FLERS EN ESCREBIEUX,Intérim,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMFJ
-Homme/Femme de ménage aux Ponts de Cé,MR CONCEPT ANGERS SUD LOIRE,Ponts-de-Cé,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMFH
-AUXILIAIRE DE VIE (H/F),FLORALYS DOMICILE,Pecquencourt,CDI,Temps partiel,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMFG
-Éducateur spécialisé / Éducatrice spécialisée de prévention (H/F),LIGUE VAROISE DE PREVENTION,TOULON,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMFB
-Technicien en recouvrement H/F,CAISSE ALLOCATIONS FAMILIALES DE L AISNE,ST QUENTIN,CDD,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMDZ
-Professeur de violoncelle à domicile (H/F),ACADOMIA / AIS 2,Nantes,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMDY
-Gérant franchisé d'un grand magasin VIDE GRENIER permanent (H/F),ELYSEE CONCEPT,Berck,Franchise,Non renseigné,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMDW
-Agent / Agente de service hospitalier (ASH) (H/F),LA ROSE DE NOEL,SIX FOURS LES PLAGES,CDD,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMDV
-Électricien installateur photovoltaïque (H/F),VANNES TT,Vannes,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMDT
-Pâtissier / Pâtissière ou Boulanger / Boulangère (H/F),BOULANGERIE SERVANT,VEZAC,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMDS
-Auxiliaire de vie (H/F),A.DOM & SERVICES,PEYREHORADE,CDD,Temps partiel,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMDR
-Technicien(ne) Bureau d'Etudes (H/F),CADIOU CHAUDRONNERIE PLASTIQUE,GUENGAT,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMDQ
-Aide ménager à domicile (H/F),ADHAP SERVICES,LIMOGES,CDD,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMDP
-AIDE-SOIGNANT(E) NUIT (H/F),EDENIS LES TROIS FONTAINES,MURET,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMDN
-Responsable organisme de formation (H/F),INSTITUT DES PREVENTEURS,Charente-Maritime,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMDM
-Mécanicien / Mécanicienne d'engins de chantier et de travaux publics,ACASS,ST JEAN DE MAURIENNE,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMDL
-Technicien laboratoire (H/F),PROMAN,Fos-sur-Mer,Intérim,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMDK
-#SALONDEMANDELIEU2024 : Magasinier en pièces automobiles H/F,STAND CENTRE AUTOMOBILE DE LA RIVIERA,MANDELIEU LA NAPOULE,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMDJ
-Carrossier-peintre / Carrossière-peintre,SES,BUC,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMDH
-nettoyeur industriel H/F,CRIT INTERIM,Saint-Quentin,Intérim,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMDG
-Chauffeur(se)-livreur(se) préparateur(trice) de commande (H/F),PROCH'EMPLOI Chauny,REIMS,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMDF
-Professeur de violon à domicile (H/F),AIS 2,Évreux,CDI,Temps partiel,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMDC
-Chef d'équipe magasinage F/H,SYNERGIE,Garges-lès-Gonesse,Intérim,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMDB
-PROJETEUR MULTI TECHNIQUE (H/F),SCOP'ING SA,VILLEURBANNE,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMCZ
-Réceptionniste polyvalent/e en hôtellerie (H/F),Kyriad Direct Chartres Mainvilliers,MAINVILLIERS,CDD,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMCX
-Secrétaire de direction (H/F),LES INTERIMAIRES PROFESSIONNELS TERTIAIR,CLERMONT FERRAND,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMCW
-Commercial H/F,OUI CARE HUMAN RESOURCES,Strasbourg,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMCV
-Ingénieur VRD - Aménagements Urbains / Chef de projet (H/F),APPROACH PEOPLE RECRUITMENT,Bordeaux,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMCT
-CONTROLE QUALITE HORAIRES JOURNEE H/F,ENTHALPIA RHONE ALPES,Ambérieu-en-Bugey,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMCS
-Technicien radio (H/F),ACTUAL NANTES 1071,Nantes,Intérim,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMCQ
-Auxiliaire de vie (H/F),AUTONOM'SERVICES,NOISY LE GRAND,CDD,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMCP
-Cuisinier / Cuisinière (H/F),L'AUBERGE DE REMORAY,REMORAY BOUJEONS,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMCN
-Gérant franchisé d'un grand magasin VIDE GRENIER permanent (H/F),ELYSEE CONCEPT,Croix,Franchise,Non renseigné,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMCM
-#SALONDEMANDELIEU2024 Aide-soignant / Aide-soignante (H/F),STAND HOPITAL PRIVE A. TZANCK MOUGINS,MOUGINS,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMCL
-Employé polyvalent  (H/F),BIOCOOP CALLUNE,BAUD,CDD,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMCH
-COMPTABLE (H/F),MAIRIE ROSNY-SOUS-BOIS,ROSNY SOUS BOIS,CDD,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMCG
-Personnel Éducatif - AES ou ME  (H/F),ASS LOZERIENNE LUTTE CRTE FLEAUX SOCIAUX,Saint-Chély-d'Apcher,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMCD
-Conducteur(trice) de ligne automatisée ind alimentaire (H/F),SOLUTIONS COMPETENCES,CHASSENEUIL DU POITOU,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMCC
-Manipulateur / Manipulatrice d'électroradiologie médicale   (H/F),CENTRE HOSPITALIER DE DIE,DIE,CDD,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMCB
-Préparateur / Préparatrice de méthodes en industrie,orys,ST AUBIN DE BLAYE,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMBZ
-Commis / Commise de cuisine (H/F),H ET C CONSEIL,NARBONNE,CDD,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMBX
-Technicien Gaz (H/F) - Roanne (H/F),GRDF,Roanne,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMBW
-Auxiliaire de Vie Mérignac (H/F),VITALLIANCE,MERIGNAC,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMBT
-Gérant franchisé d'un grand magasin VIDE GRENIER permanent (H/F),ELYSEE CONCEPT,Coudekerque-Branche,Franchise,Non renseigné,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMBQ
-Professeur de saxophone à domicile (H/F),AIS 2,Bordeaux,CDI,Temps partiel,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMBP
-Chargé de produit (H/F),PROMAN,Marignane,Intérim,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMBN
-Assistant / Assistante de gestion locative en immobilier (H/F),HABITAT 25,Montbéliard,CDD,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMBM
-Opérateur(trice) production/fabrication en ind alimentaire (H/F),40 - HAGETMAU,HAGETMAU,CDD,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMBL
-Coffreur - Bancheur (H/F),LIP BOURGOIN,Valencin,Intérim,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMBK
-Agent technique en milieu rural H/F,04 - DAUPHIN,DAUPHIN,CDD,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMBJ
-AUXILIAIRE DE VIE (H/F),FLORALYS DOMICILE,Lambres-lez-Douai,CDI,Temps partiel,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMBH
-SERVEUR(SE DE RESTAURANT H / F (H/F),HELIOS,PAU,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMBG
-COMPTABLE FOURNISSEURS (H/F),BENTA LYON,ST GENIS LAVAL,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMBF
-Opérateur robot soudure H/F (H/F),A.T.S. LASER,Anglars-Saint-Félix,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMBC
-Technicien de maintenance en informatique F/H,SYNERGIE,Cholet,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KMBB
-Calorifugeur / Calorifugeuse,TRIANGLE SOLUTIONS RH,Flamanville,Intérim,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KLZZ
-Peintre aeronautique (H/F),PROMAN,Tarbes,Intérim,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KLZY
-Homme/Femme de ménage à Saint-Barthélémy-d'Anjou,MR CONCEPT ANGERS SUD LOIRE,Maine-et-Loire,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KLZX
-Agent de service polyvalent - Rochefort (H/F),CONSEIL DEPARTEMENTAL CHARENTE-MARITIME,Rochefort,CDD,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KLZW
-Gérant franchisé d'un grand magasin VIDE GRENIER permanent (H/F),ELYSEE CONCEPT,Roncq,Franchise,Non renseigné,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KLZT
-Ouvrier / Ouvrière d'entretien des espaces verts (H/F),SAS INSERTION,ST ANDRE LEZ LILLE,CDD Insertion,Temps partiel,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KLZS
-Conseiller / Conseillère de vente PETIT BATEAU  (H/F),J L R OCEAN,ANGOULEME,CDI,Temps partiel,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KLZR
-Agent / Agente de service sécurité - SSIAP 1 (H/F),EURL VITALL SECURITE,METZ,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KLZQ
-Travailleur social (H/F),ALLOCATIONS FAMILIALES DE LA CHARENTE,ANGOULEME,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KLZP
-Commercial secteur centre (H/F),LES INTERIMAIRES PROFESSIONNELS TERTIAIR,Clermont-Ferrand,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KLZN
-Plaquiste sur table de cuisson à snacker (H/F),75 - PARIS 05,PARIS 05,CDI,Temps partiel,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KLZM
-AGENT DE PARC POLYVALENT - TP (H/F),LIP LORIENT BATIMENT,Kervignac,Intérim,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KLZL
-Professeur de chant à domicile (H/F),AIS 2,Marcq-en-Barœul,CDI,Temps partiel,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KLZK
-Assistant achats (H/F),PROMAN,Rumilly,CDD,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KLZJ
-Chef d'équipe d'entretien des espaces verts (H/F),GROUPE DGE- DGE RECRUTEMENT-DGE PLACEM,PARIS 17,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KLZH
-Vendeur / Vendeuse  lingerie / prêt-à-porter féminin (H/F),ETAM Terville,TERVILLE,CDI,Temps partiel,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KLZG
-Responsable de maintenance (H/F),ACTUAL SAUMUR 1096,Île-Bouchard,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KLZF
-Peintre industriel F/H,SYNERGIE,Beaupréau-en-Mauges,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KLZD
-Technicien bureau d'étude en électricité (H/F),ACASS,CHAPONNAY,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KLYZ
-PLAQUISTE (H/F),LES INTERIMAIRES PROFESSIONNELS INDUSTRI,Thionville,Intérim,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KLYY
-Assistant d'agence (H/F),PROMAN,Meaux,CDD,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KLYX
-Technicien bureau d'études (H/F),LEADER OULLINS 2057,Chaponost,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KLYV
-Gérant franchisé d'un grand magasin VIDE GRENIER permanent (H/F),ELYSEE CONCEPT,Hazebrouck,Franchise,Non renseigné,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KLYT
-Dessinateur projeteur VRD  (poss. chargé d'études) (H/F),APPROACH PEOPLE RECRUITMENT,Bordeaux,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KLYS
-Responsable Finances (H/F),REGIE PORT DE DIEPPE,DIEPPE,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184KLYQ
+intitulé,catégorie,entreprise,localisation,type_contrat,temps_contrat,date_publication,url,salaire,description
+Plombier / plombier chauffagiste (H/F),Bâtiment / Travaux Publics,AQUILA RH,Nouvelle-Aquitaine,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCLC,35H Travail en journée Salaire brut : Annuel de 21622.0 Euros à 26622.0 Euros sur 12.0 mois,"Aquila RH Lot et Garonne est une agence de recrutement CDD, CDI et intérim sur les secteurs industriels, logistique, transport et BTP .
+Nos Agences basées, depuis plus de 8 ans sur Marmande et Agen,..."
+Chauffeur PL Grue Auxiliaire (F/H),Bâtiment / Travaux Publics,ADEQUAT INTERIM,Auvergne-Rhône-Alpes,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCKX,35H Travail en horaires décalés Salaire brut : Mensuel de 1833.0 Euros à 2250.0 Euros sur 12.0 mois,"Notre agence Adéquat de Voiron recrute au poste de Chauffeur PL Grue Auxiliaire (F/H) pour un client spécialisé dans les matériaux du gros oeuvre.
+
+Missions :
+- Effectuer le transport de marchandises..."
+Technicien en Diagnostics Immobiliers (F/H) - Alternance    (H/F),Bâtiment / Travaux Publics,UP N PRO,Nouvelle-Aquitaine,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCKW,35H Travail en journée Salaire brut : Mensuel de 707.6 Euros à 1645.58 Euros sur 12.0 mois,"Diagnostiqueur immobilier - Formation BAC + 2 en alternance - En 1 an ou 2 ans -- H/F
+
+RESUME DE L'OFFRE DE FORMATION ID SCHOOL : 
+
+- Ton profil : appétence pour le domaine du bâtiment et de..."
+Maçon VRD(H/F),Bâtiment / Travaux Publics,ABOUTIR EMPLOI OUEST,Pays de la Loire,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCKB,35H Travail en journée Salaire brut : Horaire de 12.0 Euros à 14.0 Euros sur 12.0 mois,"Bonjour et bienvenue chez Aboutir Emploi Challans ! Nous recrutons, pour l'un de nos clients un Manoeuvre ouvrier VRD h/f. Descriptif des tâches : - pose de canalisations - creusement de tranchées..."
+Technicien en Diagnostics Immobiliers (F/H) - Alternance    (H/F),Bâtiment / Travaux Publics,UP N PRO,Bourgogne-Franche-Comté,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCJR,35H Travail en journée Salaire brut : Mensuel de 707.6 Euros à 1645.58 Euros sur 12.0 mois,"Diagnostiqueur immobilier - Formation BAC + 2 en alternance - En 1 an ou 2 ans -- H/F
+
+RESUME DE L'OFFRE DE FORMATION ID SCHOOL : 
+
+- Ton profil : appétence pour le domaine du bâtiment et de..."
+Plaquiste peintre (H/F),Bâtiment / Travaux Publics,R.PROJET BAT,Bourgogne-Franche-Comté,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCJN,39H Autre Salaire brut : Horaire de 11.88 Euros sur 12 mois,"Nous sommes une très petite entreprise spécialisée dans la rénovation tout corps d'état. Basée à Montferrand-le-Château, notre passion pour la rénovation de qualité et notre engagement envers la..."
+Ouvrier de déconstruction de cloisons (H/F),Bâtiment / Travaux Publics,OLTRAV,Hauts-de-France,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCJK,35H Autre Salaire brut : Horaire de 11.88 Euros,"En équipe, vous êtes chargé de démolir des bureaux ( Cloisons alu, placo, chauffage, câbles..) afin de remettre à nu les plateaux en vue d'une réhabilitation des immeubles en logements.
+Vous avez, de..."
+Technicien en Diagnostics Immobiliers (F/H) - Alternance    (H/F),Bâtiment / Travaux Publics,UP N PRO,Nouvelle-Aquitaine,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCGY,35H Travail en journée Salaire brut : Mensuel de 707.6 Euros à 1645.58 Euros sur 12.0 mois,"Diagnostiqueur immobilier - Formation BAC + 2 en alternance - En 1 an ou 2 ans -- H/F
+
+RESUME DE L'OFFRE DE FORMATION ID SCHOOL : 
+
+- Ton profil : appétence pour le domaine du bâtiment et de..."
+Technicien en Diagnostics Immobiliers (F/H) - Alternance    (H/F),Bâtiment / Travaux Publics,UP N PRO,Auvergne-Rhône-Alpes,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCGC,35H Travail en journée Salaire brut : Mensuel de 707.6 Euros à 1645.58 Euros sur 12.0 mois,"Diagnostiqueur immobilier - Formation BAC + 2 en alternance - En 1 an ou 2 ans -- H/F
+
+RESUME DE L'OFFRE DE FORMATION ID SCHOOL : 
+
+- Ton profil : appétence pour le domaine du bâtiment et de..."
+Monteur Armaturier (H/F),Bâtiment / Travaux Publics,PRO ARMATURE SAVOIE,Auvergne-Rhône-Alpes,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCDY,39H Travail en journée Salaire brut : Primes,"Poste à pourvoir au mois d'octobre chez PROARMATURE. Le  recrutement se fera par la méthode de recrutement par simulation (MRS), sous la forme d'exercices. La première étape aura lieu le 19/09 à 10h..."
+Technicien en Diagnostics Immobiliers (F/H) - Alternance    (H/F),Bâtiment / Travaux Publics,UP N PRO,Île-de-France,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCDS,35H Travail en journée Salaire brut : Mensuel de 707.6 Euros à 1645.58 Euros sur 12.0 mois,"Diagnostiqueur immobilier - Formation BAC + 2 en alternance - En 1 an ou 2 ans -- H/F
+
+RESUME DE L'OFFRE DE FORMATION ID SCHOOL : 
+
+- Ton profil : appétence pour le domaine du bâtiment et de..."
+Chef de projet H/F,Bâtiment / Travaux Publics,NGE,Occitanie,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCDH,35H Travail en journée Salaire brut : Annuel de 40000.0 Euros à 60000.0 Euros sur 12.0 mois,"TSO CATENAIRES (600 collaborateurs, 100 Meuros), filiale de NGE depuis 2011, étudie, construit et entretient les infrastructures ferroviaires en France et à l'International.
+
+Son expertise majeure..."
+Technicien en Diagnostics Immobiliers (F/H) - Alternance    (H/F),Bâtiment / Travaux Publics,UP N PRO,Île-de-France,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCCW,35H Travail en journée Salaire brut : Mensuel de 707.6 Euros à 1645.58 Euros sur 12.0 mois,"Diagnostiqueur immobilier - Formation BAC + 2 en alternance - En 1 an ou 2 ans -- H/F
+
+RESUME DE L'OFFRE DE FORMATION ID SCHOOL : 
+
+- Ton profil : appétence pour le domaine du bâtiment et de..."
+Technicien en Diagnostics Immobiliers (F/H) - Alternance    (H/F),Bâtiment / Travaux Publics,UP N PRO,Île-de-France,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCBX,35H Travail en journée Salaire brut : Mensuel de 707.6 Euros à 1645.58 Euros sur 12.0 mois,"Diagnostiqueur immobilier - Formation BAC + 2 en alternance - En 1 an ou 2 ans -- H/F
+
+RESUME DE L'OFFRE DE FORMATION ID SCHOOL : 
+
+- Ton profil : appétence pour le domaine du bâtiment et de..."
+Technicien en Diagnostics Immobiliers (F/H) - Alternance    (H/F),Bâtiment / Travaux Publics,UP N PRO,Île-de-France,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCBG,35H Travail en journée Salaire brut : Mensuel de 707.6 Euros à 1645.58 Euros sur 12.0 mois,"Diagnostiqueur immobilier - Formation BAC + 2 en alternance - En 1 an ou 2 ans -- H/F
+
+RESUME DE L'OFFRE DE FORMATION ID SCHOOL : 
+
+- Ton profil : appétence pour le domaine du bâtiment et de..."
+Couvreur zingueur / Couvreuse zingueuse,Bâtiment / Travaux Publics,LA COMPAGNIE DES TOITS,Bourgogne-Franche-Comté,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCBD,39H Autre Salaire brut : Mensuel de 30000 Euros à 40000 Euros sur 12 mois,"Couvreur-Zingueur (H/F)
+La Compagnie des Toits - Agence Cote d'or
+
+
+La Compagnie des Toits, réseau expert des toits professionnels, recherche pour son agence de Secteur des couvreurs-zingueurs.
+Si..."
+Technicien en Diagnostics Immobiliers (F/H) - Alternance    (H/F),Bâtiment / Travaux Publics,UP N PRO,Île-de-France,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBZM,35H Travail en journée Salaire brut : Mensuel de 707.6 Euros à 1645.58 Euros sur 12.0 mois,"Diagnostiqueur immobilier - Formation BAC + 2 en alternance - En 1 an ou 2 ans -- H/F
+
+RESUME DE L'OFFRE DE FORMATION ID SCHOOL : 
+
+- Ton profil : appétence pour le domaine du bâtiment et de..."
+Agent de fabrication de l'industrie du béton (H/F),Bâtiment / Travaux Publics,AQUILA RH,Bretagne,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBYV,35H Travail en journée Salaire brut : Horaire de 12.0 Euros à 12.0 Euros sur 12.0 mois,"AQUILA RH VANNES INDUSTRIE, agence de recrutement CDD, CDI et intérim, recherche un Agent de fabrication Béton (H/F).
+
+
+Vos missions:
+- Identifier la configuration et le dimensionnement d'un moule,..."
+Technicien en Diagnostics Immobiliers (F/H) - Alternance    (H/F),Bâtiment / Travaux Publics,UP N PRO,Île-de-France,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBYL,35H Travail en journée Salaire brut : Mensuel de 707.6 Euros à 1645.58 Euros sur 12.0 mois,"Diagnostiqueur immobilier - Formation BAC + 2 en alternance - En 1 an ou 2 ans -- H/F
+
+RESUME DE L'OFFRE DE FORMATION ID SCHOOL : 
+
+- Ton profil : appétence pour le domaine du bâtiment et de..."
+Poseur/poseuse de salle de bains (H/F),Bâtiment / Travaux Publics,R.PROJET BAT,Bourgogne-Franche-Comté,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBXZ,39H Autre Salaire brut : Horaire de 11.88 Euros sur 12 mois,"Nous sommes une très petite entreprise spécialisée dans la rénovation tout corps d'état. Basée à Montferrand-le-Château, notre passion pour la rénovation de qualité et notre engagement envers la..."
+RESPONSABLE DE LOCATION H/F,Commerce / Vente,ADEQUAT INTERIM ET RECRUTEMENT,Pays de la Loire,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCLR,35H Travail en horaires décalés Salaire brut : Mensuel de 1833.0 Euros à 2250.0 Euros sur 12.0 mois,Notre agence Adéquat des Herbiers recrute des nouveaux talents : RESPONSABLE DE LOCATION H/F chez notre client spécialisé dans le secteur d'activité de la location et location-bail de machines et...
+Téléconseiller / Téléconseillère,Commerce / Vente,ADELYCE,Occitanie,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCLG,37H Travail en journée Salaire brut : Horaire de 12.2 Euros sur 0.0 mois,"Téléconseiller (H/F)
+
+
+Adelyce, la petite boîte qui monte
+
+Editeur français, indépendant, basé à Toulouse, Adelyce est leader du pilotage de la masse salariale publique.
+Avec une offre Saas originale..."
+Conseiller vendeur (H/F),Commerce / Vente,ORANGE,Occitanie,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCHY,35H Travail en journée Salaire brut : Primes,"Bienvenue chez Orange Store, une entreprise dynamique et innovante qui fait partie des Meilleurs Employeurs de France 2023 !
+
+Rejoignez les 3000 conseillers(ères) de vente, répartis dans plus de 300..."
+Boulanger / Boulangère,Commerce / Vente,LE THEATRE DU PAIN,Grand Est,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCHP,39H Travail en horaires décalés Salaire brut : Primes,"Vous travaillerez en tant que boulanger dans le cadre d'un CDI à temps complet dans notre boulangerie a metz centre
+
+Rigoureux et organisé, vous êtes idéalement expérimenté et issu du domaine de..."
+Vendeur / Vendeuse buraliste (H/F),Commerce / Vente,89 - SENS,Bourgogne-Franche-Comté,CDI,Temps partiel,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCHC,temps partiel - 24H Autre Salaire brut : Horaire de 11.88 Euros à 12.40 Euros sur 12 mois,"Nous recherchons un/e Vendeur / Vendeuse buraliste pour notre établissement. Sous la responsabilité du gérant, vous aurez pour missions :
+- Accueillir et renseigner les clients
+- Réaliser la vente..."
+Caissier / Caissière     (H/F),Commerce / Vente,INTERMARCHE,Occitanie,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCCC,35H Travail en journée Salaire brut : Horaire de 11.88 Euros sur 12.0 mois,"Au sein de notre supermarché vous aurez en charge l'enregistrement des ventes et l'encaissement des produits et articles.
+
+Travail lundi au samedi pas de travail le dimanche (SAUF période..."
+Boulanger/Boulangère (H/F),Commerce / Vente,LEKLA GARCHES,Île-de-France,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCBM,"40H Autre
+disponible le week-end. Salaire brut : Mensuel de 3200.00 Euros à 3200.00 Euros sur 12 mois","Rejoignez notre boulangerie-pâtisserie artisanale à Garches (92)? nous sommes à la recherche d'un (e) boulanger(ère)dans un environnement moderne et convivial, où l'excellence des produits et la..."
+Responsable de Rayon  H/F (H/F),Commerce / Vente,ANIMALIS,Nouvelle-Aquitaine,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBZZ,35H Autre Salaire brut : Mensuel de 1880.0 Euros à 1881.0 Euros sur 12.0 mois,"Nous recherchons activement pour notre magasin à MERIGNAC un ou une Responsable de Rayon en animalerie.
+
+Vos futures missions : 
+
+ * Vous accompagnerez le client dans sa recherche de produit et de..."
+Vendeur en animalerie H/F (H/F),Commerce / Vente,ANIMALIS,Nouvelle-Aquitaine,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBZC,35H Autre Salaire brut : Mensuel de 1802.0 Euros à 1803.0 Euros sur 12.0 mois,"Nous recherchons activement pour notre magasin à MERIGNAC un ou une Vendeur(se) en animalerie.
+
+Vos futures missions : 
+
+ * Vous accompagnerez le client dans sa recherche de produit et de service au..."
+Boucher (H/F) -  Contrat durant les vacances de Noël,Commerce / Vente,RUELLAN PERE ET FILS TRAITEUR,Bretagne,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBYZ,42H Autre Salaire brut : Mensuel de 3205.00 Euros sur 12 mois,"RUELLAN TRAITEUR recherche un boucher (H/F) pendant les vacances de Noël. 
+Vous travaillerez en équipe avec le boucher en poste et les cuisinier(es)."
+Employé polyvalent / Employée polyvalente de libre-service,Commerce / Vente,ACTION,Normandie,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBXR,35H Autre Salaire brut : Horaire de 11.88 Euros sur 12 mois,"Vos missions : 
+
+- mise en rayon des différents produits
+- caisse
+- entretien du magasin"
+Vendeur / vendeuse en boulangerie (H/F),Commerce / Vente,BONNIN FRERES,Pays de la Loire,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBWV,35H Autre Salaire brut : Horaire de 12.00 Euros à 12.19 Euros,"Horaires en continu matin ou après-midi
+Secteur angles
+Travail en binôme
+35 h semaine 
+Tâches : 
+- ouverture et  fermeture caisse
+- passage des commandes journalières
+- entretien de la salle et de la..."
+Vendeur en chocolaterie (H/F),Commerce / Vente,MAKDAMIA,Île-de-France,CDI,Temps partiel,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBVK,temps partiel - 20H Autre Salaire brut : Mensuel de 1029.6 Euros sur 12 mois,"Dans une boutique à proximité de la Tour Eiffel, vos missions principales seront: 
+
+- Réaliser des ventes du chocolats et macarons à la clientèle (majoritairement étrangère) 
+- Procéder à..."
+Chef de projet Signalisation Ferroviaire H/F,Commerce / Vente,NGE,Île-de-France,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBVG,35H Travail en journée Salaire brut : Annuel de 35000.0 Euros à 45000.0 Euros sur 12.0 mois,"Intégrer TSO Signalisation, c'est rejoindre une filiale du Groupe NGE en plein essor spécialisée en génie civil et électrique de signalisation, agents SE, télécoms et signalisation mécanique.
+
+En..."
+Vendeur / Vendeuse en prêt-à-porter (H/F),Commerce / Vente,A L'OMBRE DES MARQUES,Pays de la Loire,CDI,Temps partiel,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBTP,temps partiel - 30H Travail en journée Salaire brut : Annuel de 21622.0 Euros à 23500.0 Euros sur 12.0 mois,"Pour notre magasin d'Angers nous recrutons un(e) Conseiller(ère) de Vente en prêt-à-porter en CDI en temps partiel 30h/semaine, poste à pourvoir au 23/12/2024.
+
+Salaire variable en fonction du..."
+Responsable Libre-Service (H/F),Commerce / Vente,POINT P,Île-de-France,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBSN,35H Travail en journée Salaire brut : Mensuel de 2100.0 Euros à 2400.0 Euros sur 12.0 mois,"POINT P recrute un/une Responsable Libre-Service
+
+ Rejoignez notre équipe en tant que Responsable du libre-service !
+
+Vous êtes passionné par le commerce et l'animation d'équipe ? Ce poste est fait..."
+apprenti boulanger H/F,Commerce / Vente,DEUX AMIS,Provence-Alpes-Côte d'Azur,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBSB,35H Autre Salaire brut : selon âge,"Fabrication pains, pains spéciaux.
+Possibilité de débuter à partir de 5h du matin.
+Vous préparez le CAP Boulangerie"
+CHARCUTIER (H/F),Commerce / Vente,2A - BASTELICA,Corse,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBQY,35H Travail en journée Salaire brut : Mensuel de 1802.0 Euros à 1973.0 Euros sur 12.0 mois,"Au sein d'une équipe d'environ 5 personnes, vous effectuerez les différentes étapes de fabrication de la charcuterie Corse (salage, découpe, embossage...) et de découpe de viande de boucherie."
+Animateur Commercial (h/f),Commerce / Vente,ADECCO,Bourgogne-Franche-Comté,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBPS,35H Travail en journée Salaire brut : Horaire de 11.88 Euros sur 12.0 mois,"Nous sommes à la recherche d'un/e animatrice pour prendre des photos du père noël et des enfants avec un appareil photo polaroid.   
+
+
+Lieu : Auchan Chatillon sur Seine
+Dates : samedi 14 décembre..."
+Boucher / Bouchère,Commerce / Vente,ZOUHRI MARKET,Provence-Alpes-Côte d'Azur,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBPR,39H Autre Salaire brut : Mensuel de 2200 Euros sur 12 mois,"Au sein de notre boucherie traditionnelle artisanale orientale, vos missions : 
+- réception et contrôle de la viande
+- désossage, découpage et mise en rayon
+- réaliser des préparations orientales
+-..."
+Interprète et traducteur bilingue  Arabe/ Français (H/F),Communication / Multimédia,AFG INTERPRETARIAT,Île-de-France,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JZFL,35H Autre Salaire brut : Mensuel de 2200.00 Euros à 2200.00 Euros sur 12 mois,"Dans le cadre du développement de notre activité, nous sommes à la recherche d'un(e) interprète/traducteur Arabe/ Français (H/F)
+Vous avez des connaissances de la culture et de la société de pays..."
+CDD - Master Content Face Care - YVES ROCHER (H/F),Communication / Multimédia,Groupe YVES ROCHER,Île-de-France,CDD,Temps partiel,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JYBG,temps partiel - 34H20 Autre Salaire brut : Annuel de 37000.0 Euros sur 12.0 mois,"Voulez-vous faire partie d'une entreprise à mission qui reconnecte les femmes & les hommes à la Nature ?
+
+Prêt(e) à découvrir une nouvelle opportunité au sein du Groupe Rocher ?
+Rejoignez la marque..."
+Chargé / Chargée de communication (H/F),Communication / Multimédia,MJC,Provence-Alpes-Côte d'Azur,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JXXS,"35H Autre
+occasionnel les soirs et week-end Salaire brut : Mensuel de 2037.75 Euros sur 12 mois","Le/La Chargé(e) de communication met en place des plans d'action afin de valoriser l'image de l'association, augmenter sa visibilité sur le territoire et développer la notoriété de ses projets, dans..."
+CHARGE DE COMMUNICATION (H/F),Communication / Multimédia,MAIRIE CREIL,Hauts-de-France,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JXNS,37H Autre Salaire brut : Selon grille fonction publique,"Les médiathèques de la ville de Creil recherche un-e Chargé.e de communication pour remplacement de conges maternité.
+
+Le Chargé de la communication (H/F) des Médiathèques conçoit des documents de..."
+Chargé de communication F/H,Communication / Multimédia,Synergie,Occitanie,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JWWV,35H Travail en journée Salaire brut : Annuel de 35000.0 Euros à 40000.0 Euros sur 12.0 mois,"Notre client, acteur incontournable du transport aérien sur la région Toulousaine, est à la recherche d'un.e Chargé-e de Communication Interne et Institutionnelle (F/H) pour un poste à pourvoir en..."
+Chef d'équipe / Team Leader (H/F),Communication / Multimédia,BIHR,Grand Est,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JWJX,"35H Travail posté (2x8, 3x8, 5x8, etc.) Salaire brut : Participation/action","Rattaché(e) à l'Outbound Manager, votre mission principale consiste à manager les équipes logistiques dédiées aux activités d'expédition, emballage, palettisation et contrôle dans l'objectif de..."
+INTERPRÈTE & TRADUCTEUR KURDE/IRAQUIEN/SORANI/FRANCAIS (H/F),Communication / Multimédia,AFG INTERPRETARIAT,Île-de-France,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JVGV,35H Autre Salaire brut : Mensuel de 2400.00 Euros sur 12 mois,"Nous recherchons 2 interprètes 
+
+Le candidat retenu devra faire preuve des compétences et qualités suivantes :
+Connaissance des normes d'interpréterait et de la traduction
+Excellent niveau en..."
+Interprète et traducteur  Pachtou /Français (H/F),Communication / Multimédia,AFG INTERPRETARIAT,Île-de-France,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JVCM,35H Autre Salaire brut : Mensuel de 2200.00 Euros sur 12 mois,"Dans le cadre du développement de notre activité, nous sommes à la recherche de deux interprètes traducteur Pachtou /Français (H/F)
+Vous avez des connaissances de la culture et de la société du pays..."
+Chargé(e) de mission économique et de projet évènementiel (H/F),Communication / Multimédia,MAISON DE L ARTISAN,Occitanie,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JRYC,35H Autre Salaire brut : Annuel de 26000.00 Euros sur 12.0 mois,"Sous la responsabilité hiérarchique et fonctionnelle du Secrétaire Général et du Président, vos principales missions sont :
+
+Chargé(e) de Mission économique : 
+- La conception et le suivi de projets..."
+CHEF.FE DE PROJET (H/F),Communication / Multimédia,IMAGECORP,La Réunion,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JQDM,35H Travail en journée Salaire brut : Annuel de 22000.0 Euros à 25000.0 Euros sur 12.0 mois,"Vous avez envie de co-créer des cultures de marque pour impacter le monde ? Cette annonce est faite pour vous !
+Imagecorp est à la recherche de son.a nouveau.elle chef.fe de projet.
+
+Vous aurez en..."
+Responsable de communication (H/F),Communication / Multimédia,REDIAB YLANG 976,Mayotte,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JQCW,35H Autre Salaire brut : Mensuel de 2700.0 Euros sur 12.0 mois,"Réseau diabète RédiabYlang 976 recherche un (e) responsable de communication. Le poste est à pourvoir immédiatement en CDI Temps plein (35 heures hebdomadaires).
+Les missions :
+- Etablir un plan de..."
+Graphiste (H/F),Communication / Multimédia,972 - SCHOELCHER,Martinique,CDI,Temps plein,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185JPHM,35H Autre Salaire brut : selon profil,"Dans le cadre de votre activité, vous serez amené à effectuer les missions suivantes : 
+Crée tout ou partie d'éléments graphiques et visuels en vue de produire un document imprimé, audiovisuel ou..."
+ALTERNANT GRAPHISTE (H/F),Communication / Multimédia,W4TCH,Île-de-France,CDD,Temps plein,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185JNRF,35H Travail en journée Salaire brut : Mutuelle,"1. PRESENTATION DE L'ENTREPRISE W4TCH TV :
+Chez W4TCH TV, nous repoussons les frontières de l'innovation dans le domaine des médias et du divertissement numérique. Forts de plusieurs années..."
+Journaliste juridique (F/H/X) (H/F),Communication / Multimédia,EDITIONS TECHNIQUES POUR L'AUTOMOBILE ET,Île-de-France,CDI,Temps plein,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185JLMJ,35H Autre Salaire brut : selon profil,"Infopro Digital, groupe B2B spécialisé dans l'information et la technologie, recherche actuellement un(e) Journaliste juridique en CDI pour renforcer l'équipe rédaction d'Achatpublic.com...."
+Chargé de Communication (h/f),Communication / Multimédia,ADECCO,Île-de-France,Intérim,Temps plein,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185JKVB,35H Travail en journée Salaire brut : Annuel de 34000.0 Euros à 40000.0 Euros sur 12.0 mois,"LHH Recruitment Solutions, cabinet de conseil en recrutement, intérim spécialisé, management de transition, et évaluation d'expert.e.s, cadres et dirigeant.e.s, recherche pour son client, un Chargé..."
+Assistant communication (H/F),Communication / Multimédia,CAISSE ALLOCATIONS FAMILIALES VAL D'OISE,Île-de-France,CDI,Temps plein,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185JKDK,36H Autre Salaire brut : Horaire de 12.00 Euros,"Au sein de l'équipe dédiée à la communication (4 personnes), rattachée directement à la Direction Générale, vous apprendrez et participerez à toutes les actions de communication interne et externe...."
+Chargé / Chargée de Communication et Marketing (H/F),Communication / Multimédia,CHATEAU MONTIFAUD,Nouvelle-Aquitaine,CDI,Temps plein,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185JJGP,39H Autre Salaire brut : Mensuel de 3000.0 Euros à 3500.0 Euros sur 13.0 mois,"Nous sommes à la recherche de notre prochain talent pour accompagner l'entreprise et ses 3 marques avec créativité et dynamisme !
+Pour qui vous allez travailler ?  Le Château Montifaud, une..."
+Régisseur / Régisseuse d'évènementiel (H/F),Communication / Multimédia,ALES AGGLOMERATION,Occitanie,CDD,Temps plein,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185JJFC,35H Autre Salaire brut : Selon grille de la FPT,"Description du poste :
+Alès Agglomération,  un territoire de 72 communes et 142 000 habitants, recherche un Régisseur Évènementiel dans le cadre de l'organisation des activités festives, sportives et..."
+Pigiste journal en ligne sur Mulhouse et département 68 (H/F),Communication / Multimédia,INFORMATION-PLURALISME-DEBAT CITOYEN,Grand Est,CDI,Temps partiel,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185JHXS,temps partiel - 5H Autre Salaire brut : Piges à partir de 54 euros min.,"Vous êtes un-e passionné-e d'actualité, avec une sensibilité marquée pour les sujets sociaux et environnementaux. Vous êtes autonomes, et capables de vous organiser pour recueillir des informations..."
+Chargé(e) de communication en alternance (H/F),Communication / Multimédia,BELLAVIDA,Île-de-France,CDD,Temps plein,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185JHWC,"35H Autre
+alternance avec l'école Salaire brut : rémunération selon age et formation","nous recherchons un(e) Chargé de communication (h/f) dans le cadre de la préparation d'une formation en Alternance - Diplôme de Niveau 5 « BTS Communication». 
+
+Le poste : 
+Vous concevez et organisez..."
+Directeur.trice de Projets en Transformation Digitale (H/F),Conseil / Etudes,HERDIA,Île-de-France,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBBR,35H Travail en journée Salaire brut : Annuel de 60000.0 Euros à 80000.0 Euros sur 12.0 mois,"En tant que Directeur.trice de Projet en Transformation Digitale vous piloterez divers projets motivants et stratégiques pour nos clients :
+
+Vous interviendrez en clientèle pour réaliser les..."
+Chef.fe de projet Mobilité (H/F),Conseil / Etudes,MOVE IN,Bretagne,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JYVC,39H Travail en journée Salaire brut : Annuel de 27600.0 Euros à 32000.0 Euros sur 12.0 mois,"Pionnier dans l'industrie de la mobilité, le groupe Mobilitas est aujourd'hui l'un des leaders mondiaux grâce à une vision innovante portée par ses dirigeants depuis près d'un demi siècle. En gardant..."
+Agent recenseur / Agente recenseuse (H/F),Conseil / Etudes,MAIRIE,Bretagne,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JYFH,35H Autre Salaire brut : Selon le nombre de recensement,"La commune de Thorigné-Fouillard recrute pour la période du 16 janvier au 15 février 2025, 14 agents recenseurs chargés de déposer puis de collecter chez les administrés les imprimés de recensement..."
+Chargé(e) de justification des contrats de recherche / formation (H/F),Conseil / Etudes,UNIVERSITE DE STRASBOURG,Grand Est,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JXHY,37H30 Travail en journée Salaire brut : CATEGORIE B TECHNICIEN,"CDD 12 mois
+Démarrage à compter du 1er février 2025
+Affectation : Direction de la Recherche et de la formation Doctorale
+
+--
+
+Catégorie : B Corps/grade : Technicien
+Statut : agent contractuel..."
+1 conseiller.ère formateur.trice (H/F),Conseil / Etudes,BGE FRANCHE COMTE,Bourgogne-Franche-Comté,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JWJK,39H Travail en journée Salaire brut : Chèque repas,"BGE Franche-Comté recrute un conseiller.ère formateur.trice en accompagnement à la création et reprise d'entreprise pour son antenne de Belfort. 
+ 
+MISSIONS 
+
+Au sein de notre équipe, vous serez en..."
+Agent recenseur / Agente recenseuse (H/F),Conseil / Etudes,COMMUNE DE VITRY SUR SEINE,Île-de-France,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JWHC,35H Station debout prolongée Salaire brut : Rémunération aux bulletins collectés,"Appel à candidatures : Agents recenseurs
+Dans le cadre du recensement de la population, la mairie recrute des agents recenseurs pour effectuer l'enquête sur le terrain
+Du 8 janvier au 24 février..."
+Chargé de stratégie (H/F),Conseil / Etudes,CEAPIC,Île-de-France,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JTHF,35H Autre Salaire brut : Mensuel de 1850.0 Euros sur 12.0 mois,"CEAPIC est un laboratoire dynamique basé à SOISY SOUS MONTMORENCY (95), en plein développement, fournissant des prestations de contrôle de la qualité de l'air.
+
+Nous recherchons un/une Chargé(e) de..."
+Enquêteur (H/F),Conseil / Etudes,PARTNAIRE,Provence-Alpes-Côte d'Azur,Intérim,Temps partiel,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JSYZ,temps partiel - 24H Travail en journée Salaire brut : Horaire de 11.88 Euros à 11.88 Euros sur 12.0 mois,"Votre agence PARTNAIRE de Nice, acteur majeur dans le recrutement CDD/CDI/Intérim, recherche pour l'un de ses clients, entreprise nationale spécialisée dans les enquêtes de terrain, 5 enquêteurs..."
+Chargé de mission RSE (H/F),Conseil / Etudes,SONERGIA,Provence-Alpes-Côte d'Azur,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JSXS,37H Autre Salaire brut : Selon profil,"Implantée à Marseille depuis 2009, SONERGIA s'est fixée pour objectif de rendre les économies d'énergie possibles. Notre rôle est de conseiller les consommateurs d'énergie (ménages, entreprises,..."
+Consultant Maintien dans l'Emploi F/H à Chambéry (H/F),Conseil / Etudes,GROUPE JLO,Auvergne-Rhône-Alpes,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JSTM,39H Travail en journée Salaire brut : Selon profil,"Le Groupe JLO, filiale du Groupe de Protection Sociale Apicil, est un cabinet de conseil en Ressources Humaines, expert des thématiques RH émergentes et de l'innovation sociale.
+Acteur majeur du..."
+Agent recenseur / Agente recenseuse,Conseil / Etudes,974 - STE SUZANNE,La Réunion,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JQTC,35H Autre Salaire brut : Horaire de 11.88 Euros,"Principales activités : 
+
+- Collecter des informations ciblées des ménages
+- Interroger le public à l'aide de questionnaires préétablis en mode interview
+- Classer, ranger et remettre au..."
+Chargé(e) de mission Développement de projets et animation (H/F),Conseil / Etudes,AGENCE LOCALE DE L'ENERGIE BRETAGNE SUD,Bretagne,CDD,Temps partiel,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185JNCS,temps partiel - 32H Travail en journée Salaire brut : Mensuel de 1834.0 Euros sur 12.0 mois,"ALOEN, l'Agence Locale de l'Energie et du Climat de Bretagne Sud, est une association loi 1901. Elle a été fondée en 2005 à l'initiative de Lorient Agglomération, de l'ADEME Bretagne et du Conseil..."
+Responsable Opérationnel.le (H/F),Conseil / Etudes,ASSOCIATION UNIS-CITE,Provence-Alpes-Côte d'Azur,CDD,Temps plein,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185JLXF,35H Autre Salaire brut : Mensuel de 2916.0 Euros sur 12.0 mois,"Management d'équipe
+
+Assurer l'encadrement, le suivi, le soutien de l'équipe de Coordinateur.ices d'Equipes et de Projets (9 salarié.e.s en charge de coordonner chacun.e 1 à 3 programmes d'engagement..."
+Chef de projet Customer Success Performance H/F (H/F),Conseil / Etudes,LECTRA,Nouvelle-Aquitaine,CDD,Temps plein,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185JLGZ,35H Travail en journée Salaire brut : Annuel de 30000.0 Euros à 40000.0 Euros sur 12.0 mois,"Rattaché(e) à l'équipe Customer Success Performance, vous participez au suivi opérationnel de la performance des équipes Customer Success au Corporate et dans nos filiales (34 au travers le..."
+RESPONSABLE D'INTERVENTION (H/F),Conseil / Etudes,ALSYMEX,Auvergne-Rhône-Alpes,CDI,Temps plein,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185JHCQ,35H Autre Salaire brut : Selon profil & expérience,"MISSIONS 
+Le responsable d'intervention a la responsabilité de gérer, planifier et coordonner les interventions et chantiers chez les clients de son périmètre 
+Vous serez intégré(e) à l'équipe..."
+Charge de projets (H/F),Conseil / Etudes,PROMAN,Provence-Alpes-Côte d'Azur,Intérim,Temps plein,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185JGHT,35H Autre Salaire brut : Horaire de 14.05 Euros sur 12.0 mois,"Le poste :
+Votre agence PROMAN Brignoles recherche pour l'un de ses clients un chef de projets H/F. Vos missions consisteront à : -analyser les besoins relatifs aux dossiers confiés; 
+-réaliser les..."
+Responsable de la cellule conventions de formations F/H (H/F),Conseil / Etudes,UVSQ,Île-de-France,CDD,Temps plein,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185JDDH,37H30 Travail en journée Salaire brut : Mensuel de 2407.0 Euros sur 12.0 mois,"Au sein de la Direction Transverse Formations et Vie Universitaire (DTFVU), vous travaillerez au sein d'une cellule en charge des conventions formations. La direction transverse regroupe l'ensemble..."
+Chef de projets RSE (H/F),Conseil / Etudes,THALASSO N 1,Île-de-France,CDI,Temps plein,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185JCLH,39H Autre Salaire brut : 2900,"Ôvoyages - Thalasso n°1 est un tour opérateur français, acteur majeur du tourisme au savoir-faire reconnu et indépendant depuis près de 25 ans. Chaque année, plus de 350 000 clients nous font..."
+Technicien bureau d'études (H/F),Conseil / Etudes,MANPOWER,Auvergne-Rhône-Alpes,Intérim,Temps plein,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185JBMV,35H Autre Salaire brut : Horaire de 12.0 Euros à 14.0 Euros sur 12.0 mois,"Mon client est une société de fabrication d'outils coupants pour le bois: lames de scies (à rubans, circulaire acier, circulaire carbure, alternative, ... 
+ 
+Rattaché au responsable département..."
+Responsable commercial agence (H/F),Direction d'entreprise,POINT P,Île-de-France,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBWC,35H Travail en journée Salaire brut : Mensuel de 2200.0 Euros à 3200.0 Euros sur 12.0 mois,"POINT P recrute un/une Responsable commercial agence
+
+Votre mission ? Être un véritable commerçant, animer l'équipe de vente au comptoir et garantir la satisfaction client ! 
+
+Les Hommes
+Animer et..."
+Un(e) Directeur(trice) général(e) (H/F),Direction d'entreprise,CC SUD ALSACE LARGUE,Grand Est,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JZCX,35H Autre Salaire brut : Grille indiciaire,"A l'entrée du Sundgau, la communauté de communes Sud Alsace Largue vous ouvre les portes d'une Alsace authentique et préservée, aux frontières du territoire de Belfort et du Jura Suisse. Territoire..."
+Responsable d'agence d'intérim (H/F),Direction d'entreprise,CONSULT RH,Île-de-France,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JTVV,35H Travail en journée Salaire brut : Annuel de 45000.0 Euros à 90000.0 Euros sur 12.0 mois,"Consult Rh, cabinet de recrutement, recherche pour l'un de ses clients UN DIRECTEUR D'AGENCE D'INTERIM (F/H)
+
+Dans le cadre de la création de l'agence, vous êtes en charge des missions suivantes :..."
+Directeur / Directrice de centre de profit (H/F),Direction d'entreprise,LES NOUVELLES ROUTINES,Île-de-France,CDI,Temps plein,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185JPTT,39H Autre Salaire brut : Annuel de 40000.0 Euros à 46000.0 Euros sur 12.0 mois,"Rejoignez une enseigne dynamique et engageante, où la performance rime avec esprit d'équipe et satisfaction client !
+
+Vous êtes un(e) leader dans l'âme, passionné(e) par le commerce et animé(e) par..."
+DIRECTEUR DE CENTRE (H/F),Direction d'entreprise,ALMO RH,Île-de-France,CDI,Temps plein,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185JKCV,35H Autre Salaire brut : Annuel de 40000.0 Euros à 46000.0 Euros sur 12.0 mois,"Mission :
+Vous êtes garant de la réalisation des objectifs économiques (chiffre d'affaires, marge, RI et stocks) du centre par le management et l'animation des équipes dans le respect des politiques..."
+RESPONSABLE D'AGENCE BTP (H/F),Direction d'entreprise,SOCIETE DE FORMATIQUE ET FINANCIERE,Grand Est,CDI,Temps plein,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185JKCJ,37H Travail en journée Salaire brut : Annuel de 30000.0 Euros à 45000.0 Euros sur 12.0 mois,"On a un bon plan pour votre carrière .... 
+Vous êtes un pro du BTP, nous sommes des pro du recrutement, posons ensemble les fondations de votre carrière.
+Nous vous proposons de prendre la direction..."
+RESPONSABLE D'AGENCE (H/F),Direction d'entreprise,SOCIETE DE FORMATIQUE ET FINANCIERE,Hauts-de-France,CDI,Temps plein,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185JHZC,37H Travail en journée Salaire brut : Annuel de 25000.0 Euros à 35000.0 Euros sur 12.0 mois,Devenez le pilier de notre équipe gagnante ! Le groupe Partnaire est à la recherche de son futur Capitaine d'Équipe Olympique en tant que Responsable d'agence (H/F) pour son agence de Wasquehal (59)...
+RESPONSABLE D'AGENCE (H/F),Direction d'entreprise,SOCIETE DE FORMATIQUE ET FINANCIERE,Grand Est,CDI,Temps plein,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185JHWZ,37H Travail en journée Salaire brut : Annuel de 25000.0 Euros à 35000.0 Euros sur 12.0 mois,Devenez le pilier de notre équipe gagnante ! Le groupe Partnaire est à la recherche de son futur Capitaine d'Équipe Olympique en tant que Responsable d'agence (H/F) pour notre future agence nucléaire...
+RESPONSABLE D'AGENCE (H/F),Direction d'entreprise,SOCIETE DE FORMATIQUE ET FINANCIERE,Hauts-de-France,CDI,Temps plein,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185JHSK,37H Travail en journée Salaire brut : Annuel de 30000.0 Euros à 40000.0 Euros sur 12.0 mois,Devenez le pilier de notre équipe gagnante ! Le groupe Partnaire est à la recherche de son futur Capitaine d'Équipe Olympique en tant que Responsable d'agence BTP (H/F) pour notre agence de Lille...
+RESPONSABLE POLE INTERVENTIONS (H/F),Direction d'entreprise,ALMO RH,Île-de-France,CDI,Temps plein,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185HZDT,35H Autre Salaire brut : Annuel de 60000.0 Euros à 70000.0 Euros sur 12.0 mois,"Description de la mission
+
+La Direction des Bâtiments et de l'Architecture assure les missions de construction et d'entretien du patrimoine de la collectivité. Pour y répondre, elle est composée de..."
+Responsable d'agence de travail temporaire,Direction d'entreprise,SOCIETE DE FORMATIQUE ET FINANCIERE,Pays de la Loire,CDI,Temps plein,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185HYNJ,35H Autre Salaire brut : Annuel de 30000.0 Euros à 35000.0 Euros sur 12.0 mois,"Nous recherchons au sein du groupe Partnaire, un Responsable d'Agence (H/F) sur Le Mans (72) pour rejoindre notre agence ADEVA. 
+Sous la bannière du Directeur Régional, vous prendrez en main la..."
+Responsable d'agence de travail temporaire,Direction d'entreprise,SOCIETE DE FORMATIQUE ET FINANCIERE,Auvergne-Rhône-Alpes,CDI,Temps plein,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185HYJH,37H Autre Salaire brut : Annuel de 30000.0 Euros à 45000.0 Euros sur 12.0 mois,"On a un bon plan pour votre carrière ....!
+
+Nous vous proposons de prendre la direction de notre agence de Clermont-Ferrand (63) dès que possible.
+
+Après une intégration et des formations à notre..."
+Responsable de sites Paris (H/F),Direction d'entreprise,TINGARI,Île-de-France,CDI,Temps plein,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185HWMN,36H30 Autre Salaire brut : Annuel de 37000.0 Euros à 42000.0 Euros sur 12.0 mois,"RESPONSABLE DE SITE H/F
+
+Nous recherchons un Responsable de site avec la conviction que chaque personne a un potentiel unique et que nul n'est inemployable.  
+Découvrez la mission que nous vous..."
+Responsable de sites Paris (H/F),Direction d'entreprise,TINGARI,Île-de-France,CDI,Temps plein,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185HWKH,36H30 Autre Salaire brut : Annuel de 37000.0 Euros à 42000.0 Euros sur 12.0 mois,"RESPONSABLE DE SITE H/F
+
+Nous recherchons un Responsable de site avec la conviction que chaque personne a un potentiel unique et que nul n'est inemployable.  
+Découvrez la mission que nous vous..."
+Responsable d'établissement marchand (H/F),Direction d'entreprise,Lkcompetency,Île-de-France,CDD,Temps plein,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185HSRX,35H Travail en journée Salaire brut : Mensuel de 1200.0 Euros sur 12.0 mois,"Dans le respect des réglementations en vigueur et de la stratégie commerciale de l'enseigne, le
+responsable d'établissement marchand pilote l'activité de l'établissement marchand afin de contribuer
+à..."
+Responsable d'Agence Espaces Verts (H/F),Direction d'entreprise,SIGMA TALENT,Hauts-de-France,CDI,Temps plein,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185HSFB,35H Autre Salaire brut : Salaire selon expérience,"Vous êtes passionné(e) par les espaces verts et recherchez un nouveau défi ? Nous cherchons pour notre client, une entreprise reconnue dans le domaine de l'aménagement paysager, un(e) Responsable..."
+Paysagiste (H/F) Junior ou Confirmé(e),Espaces verts et naturels / Agriculture / Pêche / Soins aux animaux,ADEQUAT INTERIM,Île-de-France,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCKS,35H Travail en horaires décalés Salaire brut : Mensuel de 2750.0 Euros à 3300.0 Euros sur 12.0 mois,"Notre agence Adéquat de Saint-Ouen-l'Aumône recherche pour un de nos client basé à Champagne-sur-Oise (95) un Paysagiste Junior ou Confirmé.
+
+Vos Missions :
+- Travailler en binôme pour réaliser des..."
+Chef de mission adjoint santé animale (H/F),Espaces verts et naturels / Agriculture / Pêche / Soins aux animaux,CONSEIL DEPARTEMENTAL JURA 39,Bourgogne-Franche-Comté,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCJD,39H Travail en journée Salaire brut : Chèque repas,"Engagé en faveur de l'égalité des droits et des chances, le Département du Jura souhaite prévenir les discriminations et promouvoir la diversité.
+Le Département du Jura (1300 agents permanents, 365,6..."
+Agent / Agente d'entretien des espaces verts (H/F),Espaces verts et naturels / Agriculture / Pêche / Soins aux animaux,MAIRIE d'HAUTVILLERS,Grand Est,Saisonnier,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCHZ,35H Travail en journée Salaire brut : Horaire de 11.88 Euros sur 0.0 mois,Recrutement prévu le 17/02/2025 - Travaux d'entretien des espaces verts avec utilisation du matériel technique et occasionnellement travaux d'entretien et de nettoyage des espaces publics et des...
+Ouvrier viticole / Ouvrière viticole (H/F),Espaces verts et naturels / Agriculture / Pêche / Soins aux animaux,GROUPEMENT D EMPLOYEURS 4 SAISONS,Occitanie,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCBN,35H En extérieur Salaire brut : 11.88 + panier 6.75/jr(a partir 7h),"Dans le cadre de ces travaux d'hiver, vous serez amené à effectuez des tâches telles que :
+
+- TOMBEE DES BOIS
+
+- LIAGE 
+
+Plusieurs lieux d'interventions : LE HOUGA - RISCLE - EAUZE - NOGARO selon..."
+Jardinier / Jardinière chef d'équipe (H/F),Espaces verts et naturels / Agriculture / Pêche / Soins aux animaux,LOVERA ESPACES VERTS,Provence-Alpes-Côte d'Azur,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBTW,35H Autre Salaire brut : 1800€ net mensuel NEGOCIABLE,"Dans le cadre du développement de notre activité, nous recherchons un(e) personne pour encadrer une équipe de 2 personnes sur des activités d'entretien de jardins au sein de propriétés sur le Golfe..."
+Porcher/Porchère (H/F),Espaces verts et naturels / Agriculture / Pêche / Soins aux animaux,EARL HINAULT,Bretagne,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBTN,39H Autre Salaire brut : Chèque repas,"Nous sommes à la recherche d'un(e) Porcher/Porchère pour rejoindre notre équipe. Vous serez responsable de l'entretien et du bien-être des animaux, en veillant à leur santé et à leur..."
+Jardinier / Jardinière Débutant A (H/F),Espaces verts et naturels / Agriculture / Pêche / Soins aux animaux,LOVERA ESPACES VERTS,Provence-Alpes-Côte d'Azur,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBTB,35H Autre Salaire brut : 1600€ net mensuel NEGOCIABLE,"Dans le cadre du développement de notre activité et de notre équipe, nous recherchons un(e) jardinier(e) pour intervenir exclusivement sur de l'entretien (taille de haies, tonte, etc...) dans des..."
+Bûcheron (H/F),Espaces verts et naturels / Agriculture / Pêche / Soins aux animaux,INISTE RH,Bretagne,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBNT,35H Travail en journée Salaire brut : Annuel de 21622.0 Euros à 26622.0 Euros sur 12.0 mois,"Aquila RH Ploërmel, agence de Recrutement, vous accompagne dans votre recherche d'emploi en intérim, CDD et CDI.
+Nathalie et Sandrine sont à votre écoute pour échanger sur votre parcours et vos..."
+JARDINIERS ESPACES VERTS  DEBUTANT (H/F),Espaces verts et naturels / Agriculture / Pêche / Soins aux animaux,LES JARDINIERS DU GOLFE,Provence-Alpes-Côte d'Azur,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JZNS,35H Autre Salaire brut : Mensuel de 1801.8 Euros sur 12 mois,"Société de Jardins dans le golfe de Saint Tropez , recherche pour renforcer ses équipes d'entretiens une personne débutante ou qualifiée.
+
+Elle sera chargée des tâches telles que la taille de..."
+Gestionnaire mouvement intervention,Espaces verts et naturels / Agriculture / Pêche / Soins aux animaux,CRIT INTERIM,Île-de-France,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JZHJ,35H Travail en journée Salaire brut : Mensuel de 2500.0 Euros à 2900.0 Euros sur 12.0 mois,"Dans le cadre du développement de son activité, nous recherchons pour notre client, spécialisé dans la gestion des énergies, un.e Gestionnaire mouvement intervention pour un contrat en intérim de 2..."
+Ouvrier / Ouvrière paysagiste (H/F),Espaces verts et naturels / Agriculture / Pêche / Soins aux animaux,SARL LES JARDINS DE FLORA,Pays de la Loire,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JZGL,39H Autre Salaire brut : Selon profil,"Vous réalisez les travaux d'entretien chez des particuliers ou des professionnels:
+
+- entretien des jardins
+- nettoyer les massifs
+- tonte
+- taille des végétaux
+
+Les déplacements sont effectués avec..."
+Ouvrier  pépiniériste débutant accepté A (H/F),Espaces verts et naturels / Agriculture / Pêche / Soins aux animaux,SARL PEPINIERE DU GOLFE,Provence-Alpes-Côte d'Azur,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JZDY,35H Autre Salaire brut : Mensuel de 1801.8 Euros sur 12 mois,"Au sein d'une pépinière dans le golfe de St Tropez vous êtes en charge des activités suivantes : 
+-Mise en place et aide aux travaux de manutention
+-Soins aux végétaux
+-Conseils auprès de la..."
+Ouvrier / Ouvrière agricole en production équine (H/F),Espaces verts et naturels / Agriculture / Pêche / Soins aux animaux,CENTRE HIPPIQUE MANCY,Bourgogne-Franche-Comté,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JYXW,35H Autre Salaire brut : Selon convention collective,"L'exploitation agricole de Mancy à Lons-le-Saunier (39) recherche un ouvrier agricole en production équine, en CDD de 12 mois - 35h hebdomadaires. Poste à pourvoir au 1er mars. Salaire selon..."
+Arboriste-Grimpeur (H/F) en SCOP,Espaces verts et naturels / Agriculture / Pêche / Soins aux animaux,ABOUTIR EMPLOI EST,Pays de la Loire,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JYXG,37H Autre Salaire brut : Mensuel de 2500.0 Euros à 3300.0 Euros sur 12.0 mois,"Vous êtes Elagueur-grimpeur/grimpeuse ? Vous êtes en veille ou à la recherche d'une Entreprise qui porte vos valeurs, reconnait vos compétences et vous offre l'opportunité d'être salarié.e associé.e..."
+Performance Leader  F/H,Espaces verts et naturels / Agriculture / Pêche / Soins aux animaux,PARTNAIRE,Île-de-France,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JYWG,35H Autre Salaire brut : Annuel de 35000.0 Euros à 40000.0 Euros sur 12.0 mois,"Votre agence Partnaire de Franconville, vous accompagne aujourd'hui et demain dans votre reprise d'activité ! 
+
+Véritable pôle Tertiaire, nous donnons vie à vos ambitions professionnelles..."
+Contrôleur (H/F),Espaces verts et naturels / Agriculture / Pêche / Soins aux animaux,TEAM CDI,Île-de-France,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JYTV,35H Travail en journée Salaire brut : Horaire de 12.0 Euros à 15.0 Euros sur 0.0 mois,"Nous avons un nouveau besoin de personnel en tant que câbleur électronique dans le secteur de l'industrie.
+
+ Réaliser les travaux de contrôle de conformité des produits ou sous-ensembles fabriqués..."
+Chef de chantier de travaux agricoles,Espaces verts et naturels / Agriculture / Pêche / Soins aux animaux,GRAINES & COMPETENCES,Auvergne-Rhône-Alpes,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JYTS,35H Travail en journée Salaire brut : Annuel de 30000.0 Euros à 33000.0 Euros sur 12.0 mois,"Devenez Chef de Chantier Paysagiste en Création et façonnez des paysages uniques ! 
+
+Vous avez une passion pour les aménagements paysagers et un talent pour coordonner des chantiers ? Ce poste clé..."
+Ouvrier / Ouvrière des espaces verts (H/F),Espaces verts et naturels / Agriculture / Pêche / Soins aux animaux,80 - AMIENS,Hauts-de-France,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JYTQ,35H Autre Salaire brut : SELON CONVENTION CCN51,"Au sein de l'Entreprise Adaptée, vous serez chargé(e) d'aménager et entretenir des espaces verts (parcs, jardins ) et des décors végétaux extérieurs.
+
+Poste réservé aux personnes titulaires d'une..."
+ACCOMPAGNATEUR RÉGIONALE ET CHARGE DE PROJET H/F,Espaces verts et naturels / Agriculture / Pêche / Soins aux animaux,ACCUEIL PAYSAN BOURGOGNE,Bourgogne-Franche-Comté,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JYSF,"35H Autre
+télétravail partiel possible Salaire brut : Mensuel de 2400 Euros sur 12 mois","En collaboration avec la coordinatrice régionale, les administrateurs, les bénévoles et les partenaires de l'association, vous aurez pour missions :
+- L'accompagnement et le suivi des porteur.euses..."
+(H/F)Technicien méthode,Espaces verts et naturels / Agriculture / Pêche / Soins aux animaux,INISTE RH,Bretagne,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JYRX,35H Travail en journée Salaire brut : Horaire de 12.0 Euros à 12.0 Euros sur 12.0 mois,"Aquila RH Ploërmel, agence de recrutement, vous accompagne dans votre recherche d'emploi en intérim, CDD et CDI.
+Nathalie et Sandrine sont à votre écoute pour échanger sur votre parcours et vos..."
+Animateur scolaire/extrascolaire (H/F),Hôtellerie - Restauration / Tourisme / Animation,ASS PARC ORIENTAL,Pays de la Loire,CDD,Temps partiel,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCMT,temps partiel - 10H Travail en journée Salaire brut : Horaire de 11.88 Euros sur 0.0 mois,"Le Parc Oriental de Maulévrier, situé à 12 kms de Cholet (49), est le plus grand jardin japonais d'Europe et il connait depuis quelques années une croissance importante de sa fréquentation (+ de 200..."
+maître d'hôtel H/F,Hôtellerie - Restauration / Tourisme / Animation,ADEQUAT INTERIM ET RECRUTEMENT,Normandie,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCLW,35H Travail en horaires décalés Salaire brut : Mensuel de 1833.0 Euros à 2250.0 Euros sur 12.0 mois,"Notre agence Adéquat de Pont-l'Evêque recrute un maître d'hôtel F/H en CDI.
+
+Vos futures missions :
+- Vous avez en charge l'organisation du service en participant à la mise en place.
+- Vous prendrez..."
+Animateur / Animatrice d'activités périscolaires (H/F),Hôtellerie - Restauration / Tourisme / Animation,ASS DE LOISIRS EDUCATIFS ET DE FORMATION,Grand Est,CDD,Temps partiel,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCKT,temps partiel - 10H Travail en journée Salaire brut : Horaire de 12.12 Euros sur 12.0 mois,"Nous recherchons un-e Animateur-trice périscolaire pour rejoindre l'équipe de l'accueil périscolaire de KIENHEIM, dans le cadre d'un CDD de remplacement, 10h hebdomadaires, à partir du 06/01/2025..."
+Personnel de service (H/F),Hôtellerie - Restauration / Tourisme / Animation,COLLEGE PRIVE SAINT-JOSEPH,Pays de la Loire,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCKN,35H Travail en journée Salaire brut : Mensuel de 1802.0 Euros à 1950.0 Euros sur 12.0 mois,"En remplacement d'un congé de maladie, nous recherchons un/une personnel de service ayant des fonctions de :
+- plonge et nettoyage, 
+- service en restauration scolaire
+- élaboration/confection repas"
+Chef de cuisine en CDI à la frontière Suisse (H/F),Hôtellerie - Restauration / Tourisme / Animation,ANTEO RESTAURATION,Auvergne-Rhône-Alpes,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCJL,42H Travail en journée Salaire brut : Mensuel de 5000.0 Euros sur 12.0 mois,"ANTEO spécialiste du recrutement des métiers de l'hôtellerie-restauration cherche pour son client un.e CHEF DE CUISINE en CDI h/f.
+
+L'établissement :
+Restaurants bistronomiques et brasserie chics..."
+Directeur / Directrice de restaurant (H/F),Hôtellerie - Restauration / Tourisme / Animation,LES CHARDONS BLEUS,Bretagne,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCJJ,39H Autre Salaire brut : SELON EXPERIENCE,"Dans le cadre du développement de notre activité, nous recherchons un Directeur H/F
+
+Le poste requiert des compétences aussi bien humaines que techniques :
+- des capacités de gestionnaire ;
+- un bon..."
+Serveur/ Serveuse des  Petits Déjeuner(H/F),Hôtellerie - Restauration / Tourisme / Animation,HOTEL MERCURE,Occitanie,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCHX,"39H Autre
+Repos pris en semaine Salaire brut : Mensuel de 2040.00 Euros à 2100.00 Euros sur 12 mois","Nous recherchons un(e)e personne passionné(e) par l'hôtellerie restauration, qui a envie d'apprendre, d'évoluer mais aussi de s'investir et de participer à l'évolution d'un établissement riche en..."
+Serveur (H/F),Hôtellerie - Restauration / Tourisme / Animation,YOOM,Île-de-France,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCHR,35H Travail en journée Salaire brut : Mensuel de 1955.0 Euros à 2000.0 Euros sur 12.0 mois,"Yoom recherche pour renforcer son équipe un Serveur / Serveuse en CDI 35H / par semaine
+
+PROFIL RECHERCHE
+
+Expérience :
+- Expérience exigée +
+
+Compétence:
+*   Faire preuve d'un excellent relationnel,..."
+Chef de cuisine en lycée public - La Roche s Yon (H/F),Hôtellerie - Restauration / Tourisme / Animation,ESPACE REGIONAL DE LA ROCHE SUR YON,Pays de la Loire,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCHM,35H Travail en journée Salaire brut : Mensuel de 2178.0 Euros à 2180.0 Euros sur 12.0 mois,"La Région recrute pour un de ses lycées publics situé sur le secteur La Roche sur Yon un responsable restauration en CDD pour une durée de 2 mois.
+
+En qualité de Responsable de restauration, vous..."
+Animateur / Animatrice d'activités culturelles et de loisirs,Hôtellerie - Restauration / Tourisme / Animation,CC PICARDIE DES CHATEAUX,Hauts-de-France,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCHB,35H Autre Salaire brut : Selon convention,"Missions :
+Sous la responsabilité directe de la coordinatrice opérationnelle du centre social intercommunal, le/la référent(e) jeunesse assure les missions suivantes :
+*Assurer la mise en place et..."
+Restaurant  spécialité Indienne (H/F),Hôtellerie - Restauration / Tourisme / Animation,SUVAI,Île-de-France,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCGW,35H Autre Salaire brut : Mensuel de 1801.8 Euros sur 12 mois,"Nous recherchons un cuisinier / une cuisinière pour notre restaurant SUVAI situé à Tremblay-En-France,  un restaurant de spécialité indienne.
+ Nos plats sont tous préparés sur place avec des..."
+Cuisinier / Cuisinière de collectivité,Hôtellerie - Restauration / Tourisme / Animation,ACTUAL SAINT NAZAIRE 1095,Pays de la Loire,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCGV,"35H Travail posté (2x8, 3x8, 5x8, etc.) Salaire brut : Horaire de 12.48 Euros sur 0.0 mois","En tant que cuisinier(ère), vous serez chargé(e) sous la responsabilité du chef d'atelier des missions suivantes.
+Vos missions : 
+- Réaliser les contrôles spécifiques.
+- Assurer la propreté de..."
+Pizzaïolo polyvalent H/F,Hôtellerie - Restauration / Tourisme / Animation,KIOSQUE A PIZZAS,Nouvelle-Aquitaine,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCFD,35H Autre Salaire brut : Mensuel de 2200.00 Euros à 3000.00 Euros sur 12 mois,"Adhérent enseigne nationale "" KIOSQUE A PIZZAS "", recherche un(e) pizzaïolo pour ses kiosques de LEOGNAN, VILLENAVE D'ORNON.
+Possibilité de travailler sur les 2 sites selon lieu de vie et nécessité..."
+Un(e) assistant(e) pizzaïolo (H/F),Hôtellerie - Restauration / Tourisme / Animation,KIOSQUE A PIZZAS,Nouvelle-Aquitaine,CDI,Temps partiel,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCDQ,temps partiel - 15H Autre Salaire brut : Horaire de 11.88 Euros,"Adhérent enseigne nationale "" KIOSQUE A PIZZAS "", recherche un(e) assistant(e) pizzaïolo pour son kiosque de VILLENAVE D'ORNON. 
+
+Vous aurez la charge de l'accueil téléphonique ou sur place, de la..."
+Directeur/ Directrice adjoint de centre de loisir (H/F),Hôtellerie - Restauration / Tourisme / Animation,MAIRIE,Occitanie,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCCZ,35H Autre Salaire brut : Mensuel de 1801.80 Euros à 1850.00 Euros sur 12 mois,"La ville de Bessières recherche un(e) Directeur/ Directrice adjoint  d'accueil de loisirs pour intervenir à l'ALAE/ALSH élémentaire.
+
+Gestion du budget
+Elaboration du projet pédagogique
+Animation des..."
+Pizzaïolo polyvalent H/F,Hôtellerie - Restauration / Tourisme / Animation,KIOSQUE A PIZZAS,Nouvelle-Aquitaine,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCCV,35H Autre Salaire brut : Mensuel de 2200.00 Euros à 3000.00 Euros sur 12 mois,"Adhérent enseigne nationale "" KIOSQUE A PIZZAS "", recherche un(e) pizzaïolo pour ses kiosques de VILLENAVE D'ORNON, LEOGNAN et BEAUTIRAN.
+Possibilité de travailler sur les 3 sites selon lieu de vie..."
+RESPONSABLE PLONGE VAISSELLE - RESTAURATION COLLECTIVE (H/F),Hôtellerie - Restauration / Tourisme / Animation,13 - Marseille 9e Arrondissement,Provence-Alpes-Côte d'Azur,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCCQ,35H Travail en journée Salaire brut : Mensuel de 1802.0 Euros à 1803.0 Euros sur 12.0 mois,"Mission:
+- Responsable du fonctionnement des machines et équipements de plonge,
+- Encadre son équipe,
+Activités principales :
+- Assurer l'encadrement de son équipe,
+- Alimenter et vérifier les..."
+Un(e) assistant(e) pizzaïolo (H/F),Hôtellerie - Restauration / Tourisme / Animation,KIOSQUE A PIZZAS,Nouvelle-Aquitaine,CDI,Temps partiel,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCBW,temps partiel - 15H Autre Salaire brut : Horaire de 11.88 Euros,"Adhérent enseigne nationale "" KIOSQUE A PIZZAS "", recherche un(e) assistante(e) pizzaïolo pour son kiosque de BEGLES. 
+
+Vous aurez la charge de l'accueil téléphonique ou sur place, de la prise de..."
+Un(e) assistant(e) pizzaïolo (H/F),Hôtellerie - Restauration / Tourisme / Animation,KIOSQUE A PIZZAS,Nouvelle-Aquitaine,CDI,Temps partiel,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCBF,temps partiel - 15H Autre Salaire brut : Horaire de 11.88 Euros,"Adhérent enseigne nationale "" KIOSQUE A PIZZAS "", recherche un(e) assistant(e) pizzaïolo pour son kiosque de TALENCE. 
+
+Vous aurez la charge de l'accueil téléphonique ou sur place, de la prise de..."
+Un(e) assistant(e) pizzaïolo (H/F),Hôtellerie - Restauration / Tourisme / Animation,KIOSQUE A PIZZAS,Nouvelle-Aquitaine,CDI,Temps partiel,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBYW,temps partiel - 15H Autre Salaire brut : Horaire de 11.88 Euros,"Adhérent enseigne nationale "" KIOSQUE A PIZZAS "", recherche un(e) assistant(e) pizzaïolo pour son kiosque du BOUSCAT. 
+
+Vous aurez la charge de l'accueil téléphonique ou sur place, de la prise de..."
+GESTIONNAIRE LOCATIF (H/F),Immobilier,NVO RH,Auvergne-Rhône-Alpes,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCGL,35H Travail en journée Salaire brut : Annuel de 25000.0 Euros à 30000.0 Euros sur 12.0 mois,"Lieu : Villeurbanne
+Contrat : CDI
+Disponibilité : Dès que possible
+
+Rejoignez une entreprise en pleine croissance et gérez un portefeuille locatif d'exception !
+Vous êtes passionné par l'immobilier..."
+Directeur du Développement Foncier H/F (H/F),Immobilier,NEXITY,Centre-Val de Loire,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBQL,35H Travail en journée Salaire brut : selon profil,"Description de l'entreprise
+
+Aménageur urbain et promoteur-exploitant au service de tous, nous sommes proches du quotidien de nos clients, de nos partenaires et de nos collaborateurs, qui sont notre..."
+Gestionnaire contrats énergie (parc locatif) (H/F),Immobilier,NEOLIA,Bourgogne-Franche-Comté,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JZLH,37H Autre Salaire brut : Mensuel de 1987.0 Euros à 2300.0 Euros sur 13.0 mois,"Vous gérez les contrats rattachés au fonctionnement d'un parc immobilier locatif plus spécifiquement chauffage et ascenseur : 
+A ce titre, vous intervenez au niveau : des contrats de fourniture..."
+Gestionnaire de Copropriété (H/F),Immobilier,IMMO DE FRANCE-AIN,Auvergne-Rhône-Alpes,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JZCN,39H Travail en journée Salaire brut : Rémunération Selon Profil,"Description du poste
+Depuis près de 30 ans, IMMO DE FRANCE AIN, membre du réseau PROCIVIS AIN, propose une gamme complète de services immobiliers : transaction, location, gestion et syndic de..."
+Gestionnaire immobilier (H/F),Immobilier,ASS INT CTRE MED SOCIAUX REG ILE FRANCE,Île-de-France,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JYYZ,36H Travail en journée Salaire brut : Chèque repas,"L'ACMS est un service interentreprises de santé au travail qui intervient sur les huit départements d'Île-de-France.
+
+Afin d'exercer au mieux sa mission - ""Éviter toute altération de la santé des..."
+Conseiller / Conseillère de transaction en immobilier (H/F),Immobilier,LAFORET AJ IMMOBILIER,Provence-Alpes-Côte d'Azur,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JYXP,"35H Autre
+Commission selon profil Salaire brut : Mensuel de 1801.8 Euros sur 12 mois","Tu souhaites t'investir au sein d'une équipe à taille humaine soudée et tu as pour ambition d'évoluer rapidement dans un cadre de travail convivial ?  N'attend plus : rejoins le groupe Laforêt, à..."
+ASSISTANT DE COPROPRIETE (H/F),Immobilier,LCM CONSEIL,Auvergne-Rhône-Alpes,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JYQL,35H Travail en journée Salaire brut : Rémunération selon profil,"LCM CONSEIL recherche assistant de copropriété H/F à plein temps en CDI 
+Rattaché au gestionnaire, vous assurez la gestion quotidienne de plusieurs copropriétés :
+- Accueil physique et téléphonique..."
+Négociateur / Négociatrice en immobilier (H/F),Immobilier,RE/MAX AVANTAGE,Île-de-France,Profession commerciale,Non renseigné,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JYFT,Travail en journée Rémunération : 80% du CA généré,"Pour aider nos clients à concrétiser leurs projets immobiliers, vos missions seront de :
+
+- Prospecter pour trouver des vendeurs et acquéreurs qualifiés.
+- Réaliser des estimations précises et plan..."
+Conseiller / Conseillère immobilier (H/F),Immobilier,NESTENN,Pays de la Loire,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JWMY,35H Autre Salaire brut : Primes,"Nestenn Nantes Chantenay/Ste Anne /Zola recrute un(e) conseiller(e) immobilier pour son agence de Nantes .
+
+Vous souhaitez  intégrer une équipe motivée et dynamique ? 
+
+Le poste de conseiller(e)..."
+Consultant en Immobilier d' Entreprise (H/F),Immobilier,A.C.C CONSEILS,Pays de la Loire,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JWFM,35H Travail en journée Salaire brut : Mobile,"Cabinet spécialisé en immobilier d'entreprise basé au Mans, dans le cadre de son expansion, ADVENIS Le Mans recrute un(e) Consultant(e) en immobilier d'entreprise afin de participer au développement..."
+Gérant Technique H/F,Immobilier,CRIT,Normandie,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JVNP,35H Travail en journée Salaire brut : Annuel de 22000.0 Euros à 25000.0 Euros sur 12.0 mois,"Dans le cadre du développement de son activité, nous recherchons pour notre client, un Gérant Technique H/F en CDI. 
+Le poste est basé à Argentan et requiert une expérience de 2 à 5 ans.
+
+- Exécuter..."
+GESTIONNAIRE LOCATIF H/F (H/F),Immobilier,C.I.S. IMMOBILIER,Auvergne-Rhône-Alpes,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JVLC,35H Travail en journée Salaire brut : Primes,"Le Groupe CIS regroupe tous les métiers immobiliers sur le territoire de la Savoie depuis plus de 40 ans. Acteur engagé de l'économie sociale et solidaire, sa singularité consiste en son modèle..."
+Responsable Patrimoine (H/F),Immobilier,COMMUNAUTE DE COMMUNES DE L'ERNEE,Pays de la Loire,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JTTX,39H Autre Salaire brut : Mensuel de 2100.0 Euros sur 12.0 mois,"Dans ce cadre, la Communauté de communes de l'Ernée recrute : 
+SON RESPONSABLE PATRIMOINE
+
+Rattaché(e) au responsable du pôle technique, vous avez pour mission principale la gestion technique des..."
+Conseiller Immobilier (H/F),Immobilier,HUMAN IMMOBILIER,Île-de-France,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JTFM,35H Autre Salaire brut : Mensuel de 2000.00 Euros sur 12 mois,"Depuis 44 ans notre Groupe est engagé dans une vision claire et sans compromis des métiers de l'immobilier. Intimement convaincus que les services immobiliers doivent évoluer en profondeur, nous..."
+Agent Immobilier h/f (H/F),Immobilier,MASALEX CONSEIL,Provence-Alpes-Côte d'Azur,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JRVZ,35H Autre Salaire brut : Primes en indépendant,"Le poste
+
+MASALEX CONSEIL, recrute pour son client, agence immobilière de prestige, un négociateur en immobilier statut indépendant.
+Au sein d'une agence à taille familiale, vous participez à son..."
+Chef ou Cheffe de pôle valorisation immobilière (H/F),Immobilier,SNCF GARE DE ST DENIS STADE DE FRANCE,Nouvelle-Aquitaine,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JQDS,35H Travail en journée Salaire brut : à définir selon profil,"Chef ou Cheffe de pôle valorisation immobilière
+Publiée le 09/12/2024
+
+Description de l'employeur
+Rejoindre SNCF, c'est choisir de construire votre avenir dans une entreprise qui sait encourager la..."
+Chargé de développement foncier photovoltaïques (h/f),Immobilier,ADECCO,Occitanie,CDI,Temps plein,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185JPHB,35H Autre Salaire brut : Annuel de 40000.0 Euros à 55000.0 Euros sur 12.0 mois,"LHH Recruitment Solutions, cabinet de conseil en recrutement, travail temporaire spécialisé, gestion de transition et évaluation d'experts, cadres et dirigeants recherche pour son client, basé à..."
+Gestionnaire locatif H/F,Immobilier,ADECCO,Île-de-France,CDI,Temps plein,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185JPGZ,35H Travail en journée Salaire brut : Annuel de 35000.0 Euros à 40000.0 Euros sur 12.0 mois,"LHH Recruitment Solutions, cabinet de conseil en recrutement, intérim spécialisé, management de transition, et évaluation d'expert.e.s, cadres et dirigeant.e.s, recherche pour son client un..."
+Opérateur découpe matière  H/F,Industrie,ADEQUAT INTERIM ET RECRUTEMENT,Occitanie,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCPB,35H Travail en horaires décalés Salaire brut : Mensuel de 1833.0 Euros à 2250.0 Euros sur 12.0 mois,"Notre agence Adéquat Blagnac recrute un Opérateur découpe matière (débit) (F/H) pour notre client dans l'aéronautique.
+
+Vos missions :
+
+- Préparer la machine-outil appropriée (réglage et paramétrage)..."
+Opérateur de conditionnement (F/H),Industrie,ADEQUAT INTERIM,Hauts-de-France,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCNY,35H Travail en horaires décalés Salaire brut : Mensuel de 1802.0 Euros à 1833.0 Euros sur 12.0 mois,"Notre agence Adéquat St Quentin recrute un ou une opérateur de conditionnement F/H pour une mission intérim située à St Quentin pour un client spécialisé en cosmétique.
+
+Vos futures missions :
+
+-..."
+SOUDEUR TIG (H/F),Industrie,ABOUTIR EMPLOI OUEST,Pays de la Loire,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCNQ,35H Travail en journée Salaire brut : Mensuel de 1802.0 Euros à 2500.0 Euros sur 12.0 mois,"Bonjour et bienvenue chez Aboutir Emploi Challans ! Nous recrutons, pour l'un de nos clients un SOUDEUR TIG Inox h/f. Descriptif des tâches : 
+- Préparation des matériaux et des pièces à souder selon..."
+Préparateur de commandes/Livraison H/F,Industrie,ADEQUAT INTERIM,Auvergne-Rhône-Alpes,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCNN,35H Travail en horaires décalés Salaire brut : Mensuel de 1833.0 Euros à 2250.0 Euros sur 12.0 mois,"Votre agence Adéquat de MONISTROL SUR LOIRE recrute un Préparateur de commandes/Livraison F/H pour son client, en CDI.
+
+Situé au Pertuis, notre client est spécialisé dans la transformation de..."
+Chaudronnier h/f,Industrie,ADEQUAT INTERIM,Nouvelle-Aquitaine,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCNL,35H Travail en horaires décalés Salaire brut : Mensuel de 1833.0 Euros à 2250.0 Euros sur 12.0 mois,"Notre agence Adéquat de Châtellerault recrute des nouveaux talents : Chaudronnier (F/H) en CDI.
+
+Vos missions :
+- lecture de plans
+- Traçage des formes
+- Découpage / pliage / cintrage /..."
+Opérateur de production (H/F,Industrie,ADEQUAT INTERIM ET RECRUTEMENT,Normandie,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCNJ,35H Travail en horaires décalés Salaire brut : Mensuel de 1802.0 Euros à 1833.0 Euros sur 12.0 mois,"Notre agence Adéquat de Pont l'évêque recrute des nouveaux talents sur des postes d'Opérateur de Fabrication (F/H).
+
+Missions :
+
+- Assemblage de composants pour coffret électrique
+- Utilisation de..."
+Technicien méthodes-industrialisation (H/F),Industrie,LT EVOLUTIONS,Auvergne-Rhône-Alpes,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCMP,35H Travail en journée Salaire brut : Annuel de 35000.0 Euros à 45000.0 Euros sur 12.0 mois,"Vous êtes passionné par l'optimisation des processus industriels et souhaitez contribuer à l'innovation dans un environnement dynamique ? Nous avons une opportunité pour vous !
+
+LYNX RH, cabinet de..."
+Outilleur à chaud (H/F),Industrie,ALLIANCE EMPLOI,Hauts-de-France,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCMN,"35H Travail posté (2x8, 3x8, 5x8, etc.) Salaire brut : Mensuel de 1972.0 Euros sur 12.0 mois","Nous sommes à la recherche d'un Outilleur H/F pour une entreprise partenaire issue de la métallurgie et spécialisée dans la fabrication de tubes, tuyaux et profilés creux.
+
+Rattaché(e) au Chef..."
+Responsable d'activité (H/F),Industrie,ADEQUAT INTERIM,Bourgogne-Franche-Comté,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCMH,35H Travail en horaires décalés Salaire brut : Mensuel de 3300.0 Euros à 3300.0 Euros sur 12.0 mois,"Notre agence Adéquat de Vesoul recrute des nouveaux talents pour son client expert en tuyauterie.
+
+Missions :
+- Animer et gérer ses équipes et le différents ateliers
+- Assurer la sécurité sur le..."
+SOUDEUR (F/H),Industrie,ADEQUAT INTERIM ET RECRUTEMENT,Hauts-de-France,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCMF,35H Travail en horaires décalés Salaire brut : Mensuel de 1833.0 Euros à 2250.0 Euros sur 12.0 mois,"Mission longue ou courte durée selon profil et disponibilité à BEAUTOR - Expérience d'un an minimum.
+
+Notre agence Adéquat de CHAUNY recrute des nouveaux talents : SOUDEUR MAG (F/H)
+
+Missions :
+
+-..."
+H/F,Industrie,ADEQUAT INTERIM,Île-de-France,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCLX,35H Travail en horaires décalés Salaire brut : Mensuel de 1802.0 Euros à 1833.0 Euros sur 12.0 mois,"Adequat recherche pour la mission :
+
+Sous l'autorité directe du Responsable Qualité Hygiène Sécurité Environnement Responsabilité Sociétale des Entreprises (QHSE-RSE) rattaché à la Direction..."
+PREPARATEUR TECHNIQUE F/H,Industrie,ADEQUAT INTERIM,Auvergne-Rhône-Alpes,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCLP,35H Travail en horaires décalés Salaire brut : Mensuel de 1833.0 Euros à 2250.0 Euros sur 12.0 mois,"Notre agence ADEQUAT Albertville, recrute pour son client spécialisé dans la location de matériels et équipements de chantier, un(e) Préparateur(trice) Technique H/F.
+
+Poste à pourvoir de suite, en..."
+Opérateur onduleuse H/F,Industrie,ONDUPACK,Occitanie,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCLL,35H Autre Salaire brut : Annuel de 21700.00 Euros à 25000.00 Euros sur 12 mois,"Au sein de notre atelier de production, vous êtes chargés de seconder le conducteur onduleuse dans ses opérations de réglages et d'optimisation de production.
+Vous participez aux réglages et à la..."
+Ingénieur ME / Généraliste F/H,Industrie,ADEQUAT INTERIM,Occitanie,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCLB,35H Travail en horaires décalés Salaire brut : Mensuel de 1833.0 Euros à 2250.0 Euros sur 12.0 mois,En tant qu'Ingénieur vous jouerez un rôle essentiel dans l'amélioration continue de nos processus de production. Vous aurez la charge d'optimiser les méthodes de fabrication et d'assurer le bon...
+Opérateur finitions (F/H),Industrie,ADEQUAT 135,Normandie,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCKY,35H Travail en horaires décalés Salaire brut : Mensuel de 1833.0 Euros à 2250.0 Euros sur 12.0 mois,"Notre agence Adéquat de Cherbourg recrute un Opérateur finitions (f/h).
+
+Prêt(e) à relever le défi ?
+
+Vos missions :
+
+- Prendre connaissance des documents transmis dans le dossier de fabrication.
+
+-..."
+Monteur F/H,Industrie,ADEQUAT INTERIM,Normandie,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCKV,35H Travail en horaires décalés Salaire brut : Mensuel de 1833.0 Euros à 2250.0 Euros sur 12.0 mois,"Adéquat recrute pour un de ses clients, des Monteur en métalerie chaudronnerie (F/H) sur le secteur de Penly et Paluel, Titulaire de ses habilitations nuclaires (SCN2)
+
+Missions :
+
+- Maîtriser les..."
+Visite d'entreprise EUROP'A (H/F),Industrie,PARTNAIRE,Pays de la Loire,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCKK,"38H Travail posté (2x8, 3x8, 5x8, etc.) Salaire brut : Horaire de 12.0 Euros à 12.0 Euros sur 12.0 mois","PARTNAIRE LES HERBIERS accompagne son client basé à Beaurepaire,  principal acteur français du bâtiment en construction métallique, bois et béton et fort de son expérience de plus de 70 ans dans le..."
+Opérateur régleur en industrie (H/F),Industrie,AQUILA RH,Nouvelle-Aquitaine,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCHF,35H Travail en journée Salaire brut : Annuel de 22000.0 Euros à 25000.0 Euros sur 12.0 mois,"Aquila RH Lot et Garonne est une agence de recrutement CDD, CDI et intérim sur les secteurs industriels, logistique, transport et BTP .
+Nos Agences basées, depuis plus de 8 ans sur Marmande et Agen,..."
+Conducteur de ligne de nuit (H/F),Industrie,PROMAN,Pays de la Loire,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCGG,35H Travail en journée Salaire brut : Horaire de 11.88 Euros sur 12.0 mois,"Le poste :
+Bienvenue chez PROMAN, première entreprise indépendante du travail temporaire en France. Constitué d'un réseau de 390 agences, nous proposons chaque jour des missions à plus de 50 000..."
+Agent de fabrication (H/F),Industrie,PROMAN,Centre-Val de Loire,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCGD,35H Travail en journée Salaire brut : Horaire de 11.88 Euros sur 12.0 mois,"Le poste :
+Nous recherchons des opérateurs de production pour un de nos clients du secteur de l'éditique. De nombreux postes à pourvoir sur Blois, une belle opportunité, souvent recherchée! Vous êtes..."
+Coordinateur Technique IT Junior (H/F),Informatique / Télécommunication,GROUPE VITAL,Nouvelle-Aquitaine,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBPQ,35H Autre Salaire brut : Annuel de 22000.0 Euros à 26000.0 Euros sur 12.0 mois,"Coordination des projets en cours et des équipes techniques 
+- Recenser et centraliser les différentes informations auprès des parties prenantes
+- Etablir et prioriser les tâches liées au projet..."
+Chef de projet Junior International (H/F),Informatique / Télécommunication,GROUPE VITAL,Île-de-France,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBLC,35H Autre Salaire brut : Annuel de 22000.0 Euros à 26000.0 Euros sur 12.0 mois,Contexte Il s'agit de suivre l'avancement de projets de conformités informatiques avec les autorités règlementaires locales et françaises au niveau international. Vérifier et suivre le niveau de...
+(H/F)Technicien informatique SAV,Informatique / Télécommunication,LYNX RH SERVICES,Occitanie,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBFR,35H Travail en journée Salaire brut : Annuel de 25000.0 Euros à 25000.0 Euros sur 12.0 mois,"Lynx RH, partenaire de votre réussite professionnelle dans l'univers de l'informatique, recrute un(e) Technicien(ne) SAV pour le compte de son client, un laboratoire de remise en état de matériel..."
+TECHNICIEN(NE) EXPLOITATION (H/F),Informatique / Télécommunication,VADEMI,Île-de-France,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JZYJ,35H Travail en journée Salaire brut : Annuel de 25000.0 Euros à 30000.0 Euros sur 12.0 mois,"Compétences techniques 
+OS Windows - Confirmé - Impératif
+Virtualisation Windows - Confirmé - Impératif
+OS Linux Ubuntu - Confirmé - Important
+Réseau - Confirmé - Souhaitable
+
+Description détaillée..."
+Tech Lead Java - Montreuil (H/F),Informatique / Télécommunication,CIORANE,Île-de-France,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JZSQ,35H Travail en journée Salaire brut : Annuel de 40000.0 Euros à 45000.0 Euros sur 12.0 mois,"Bonjour,
+
+Nous recherchons un(e) Tech Lead Java - Montreuil pour une mission située à Montreuil (Télétravail 2 jours sur site + télétravail) avec un démarrage ASAP ; mission longue, d'une durée de 2..."
+Ingénieur Infrastructure Cloud Azure (H/F),Informatique / Télécommunication,LYNX RH,Île-de-France,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JZCM,35H Travail en journée Salaire brut : Annuel de 50000.0 Euros à 60000.0 Euros sur 12.0 mois,"Lynx RH Essonne, cabinet de recrutement en CDI, CDD et Intérim, recherche pour l'un de ses clients un Ingénieur Infrastructure Cloud Azure H/F à proximité de Bondoufle (91).
+
+
+Vos missions:
+Au sein..."
+Business Développeur (H/F),Informatique / Télécommunication,TEAM CDI,Île-de-France,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JZCD,35H Travail en journée Salaire brut : Annuel de 28000.0 Euros à 38000.0 Euros sur 12.0 mois,"Vous allez devoir Développer les activités commerciales, prospecter et rechercher des opportunités dans le but d'augmenter le chiffre d'affaires du Groupe. Assurer le relationnel avec le..."
+Technicien Informatique (H/F),Informatique / Télécommunication,TEAM CDI,Bourgogne-Franche-Comté,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JYZK,35H Travail en journée Salaire brut : Horaire de 12.0 Euros à 15.0 Euros sur 0.0 mois,"Intégrez notre équipe de techniciens informatique, pour assurer le dépannage  des matériels et l'organisation des enlèvements et réinstallations chez nos clients Professionnels et particuliers...."
+Responsable  Technicien Informatique (H/F),Informatique / Télécommunication,TEAM CDI,Bourgogne-Franche-Comté,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JYYC,39H Travail en journée Salaire brut : Horaire de 13.0 Euros à 16.0 Euros sur 0.0 mois,"Objectif : 
+Promouvoir les nouveaux services aux professionnels de votre base de données client et dans votre zone de chalandise 
+- Services et abonnements téléphonie IP (accompagnement technique et..."
+Technicien Systèmes et Réseaux (H/F),Informatique / Télécommunication,CONFLUENT INTERIM,Auvergne-Rhône-Alpes,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JXZQ,39H Travail en journée Salaire brut : Horaire de 13.0 Euros sur 0.0 mois,"Fidérim recrute pour une société dynamique et en pleine croissance, spécialisée dans les domaines de l'ingénierie informatique, de l'hébergement et des télécommunications. Ils accompagnent leurs..."
+Directeur technique (H/F),Informatique / Télécommunication,EDITIONS TECHNIQUES POUR L'AUTOMOBILE ET,Île-de-France,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JXTB,35H Travail en journée Salaire brut : Mutuelle,"Infopro Digital, groupe B2B spécialisé dans l'information et la technologie, recherche actuellement un(e) Directeur Technique (CTO) en CDI pour renforcer l'équipe d'Eventmaker.
+
+Eventmaker est une..."
+Technicien informatique itinérant (H/F),Informatique / Télécommunication,JDC,Auvergne-Rhône-Alpes,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JXRC,35H Autre Salaire brut : Annuel de 22000.0 Euros à 25000.0 Euros sur 12.0 mois,"QUI SOMMES NOUS ?
+
+JDC SA, c'est avant tout le fruit d'une expertise métier depuis 35 ans et l'aboutissement d'une implantation nationale forte de plus de 1000 collaborateurs au sein de 42 agences,..."
+Consultant ERP F/H (H/F),Informatique / Télécommunication,GROUPE SAMSIC,Bretagne,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JXDQ,35H Autre Salaire brut : Annuel de 40000.0 Euros à 50000.0 Euros sur 12.0 mois,"Rattaché(e) au Directeur de Projet ERP et au DSI, dans le cadre du changement d'ERP Groupe, vos missions consisterons à  :
+
+*Contribuer à la mise en place du nouvel ERP groupe (IFS), et être force de..."
+ASSISTANT ADMINISTRATIF 543H (h/f),Informatique / Télécommunication,IZIWORK,Île-de-France,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JWRV,35H Travail en journée Salaire brut : Annuel de 26000.0 Euros à 30000.0 Euros sur 12.0 mois,"Iziwork est une agence d'intérim digital qui sélectionne les meilleures missions pour les centaines de milliers de Français qu'elle a déjà séduit.
+
+Postulez en quelques minutes, gérez votre contrat..."
+Administrateur Système et Réseaux (H/F),Informatique / Télécommunication,BIHR,Grand Est,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JWLC,35H Travail en journée Salaire brut : Participation/action,"Vous faites partie d'une équipe internationale d'experts concevant, mettant en œuvre et maintenant notre infrastructure informatique. Vous veillez à ce que cette infrastructure fonctionne au plus..."
+Commercial IT H/F (H/F),Informatique / Télécommunication,SYNOVO GROUP,Grand Est,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JWJW,35H Travail en journée Salaire brut : Annuel de 30000.0 Euros à 32000.0 Euros sur 12.0 mois,"Et si vous rejoigniez une entreprise strasbourgeoise dynamique et en pleine croissance ?
+
+SYNOVO GROUP est une société à taille humaine relevant de nombreux défis depuis plus de 10 ans, et dont les..."
+Développeur Java / Liferay (H/F),Informatique / Télécommunication,ZONOVA,Grand Est,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JVNX,35H Autre Salaire brut : Annuel de 38000.0 Euros à 52000.0 Euros sur 12.0 mois,"A propos du poste
+
+Tu intègres une DSI dynamique de plus de 100 collaborateurs, située à Strasbourg et facilement accessible en transports en commun. Les bureaux modernes et conviviaux offrent un..."
+Développeur PHP Symfony (H/F),Informatique / Télécommunication,GROUPAGORA,Provence-Alpes-Côte d'Azur,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JVKS,35H Travail en journée Salaire brut : Annuel de 45000.0 Euros à 50000.0 Euros sur 12.0 mois,"Vous cherchez une société dans laquelle votre sens du service et vos compétences seront reconnus ?
+
+Un cadre de travail agréable facilement accessible et pourvu de services de qualité ?
+
+Notre..."
+Développeur Java - PL/SQL (H/F),Informatique / Télécommunication,ZONOVA,Grand Est,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JVHY,35H Travail en journée Salaire brut : Annuel de 40000.0 Euros à 52000.0 Euros sur 12.0 mois,"A propos du poste
+
+Intégré(e) à une équipe d'une dizaine de personnes, tu travailleras sur des projets stratégiques axés sur la sécurité. Les équipes de développement adoptent une approche centrée..."
+Administrateur / Administratrice systèmes et réseaux,Informatique / Télécommunication,MULTISERVICES PRO,Île-de-France,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JTYJ,35H Travail en journée Salaire brut : Mensuel de 1950.0 Euros à 1951.0 Euros sur 12.0 mois,Nous recherchons un(e) administrateur (trice) réseau pour assurer les installations informatiques chez nos clients.
+Manoeuvre / Ouvrier TP - BTP (F/H),Installation / Maintenance,ADEQUAT INTERIM,Grand Est,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCNW,35H Travail en horaires décalés Salaire brut : Mensuel de 1802.0 Euros à 1833.0 Euros sur 12.0 mois,"Mission courte durée selon profil
+
+Ne laissez pas votre carrière en chantier : votre Agence Adéquat Châlons en Champagne recrute des futur(e)s Manoeuvres / Ouvriers TP - BTP (F/H).
+
+Activité..."
+Mécanicien Maintenance H/F,Installation / Maintenance,ADEQUAT INTERIM,Grand Est,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCNR,35H Travail en horaires décalés Salaire brut : Mensuel de 1833.0 Euros à 2250.0 Euros sur 12.0 mois,"Notre agence Adéquat MULHOUSE recrute un MECANICIEN MAINTENANCE pour une mission évolutive située à Pulversheim
+
+Vos futures missions :
+
+-Préparation des intervention
+-Prise connaissance..."
+Agent de maintenance bâtiment H/F,Installation / Maintenance,ADEQUAT INTERIM,Pays de la Loire,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCNG,35H Travail en horaires décalés Salaire brut : Mensuel de 1833.0 Euros à 2250.0 Euros sur 12.0 mois,"Notre agence Adéquat ANGERS recrute un agent de maintenance bâtiment F/H pour son client, un centre commercial sur Angers .
+
+Vos futures missions :
+
+- Maintenance multi techniques du site (petits..."
+Technicien de maintenance en robot de traite H/F,Installation / Maintenance,ADEQUAT INTERIM,Bretagne,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCNC,35H Travail en horaires décalés Salaire brut : Mensuel de 2250.0 Euros à 2750.0 Euros sur 12.0 mois,"Notre agence Adéquat grand fougeray recrute un Technicien de maintenance pour une mission évolutive située à Pléchatel pour son client spécialisé en agricole.
+
+Vos futures missions :
+- montages et..."
+GESTIONNAIRE DE PARC  H/F,Installation / Maintenance,ADEQUAT INTERIM,Auvergne-Rhône-Alpes,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCMK,35H Travail en horaires décalés Salaire brut : Mensuel de 2250.0 Euros à 2750.0 Euros sur 12.0 mois,"Notre agence Adéquat de Montélimar recrute un GESTIONNAIRE DE PARC (H/F) pour une entreprise issu du secteur BTP/TP.
+
+Vos missions:
+
+ * Assurer la gestion administrative du parc automobile ainsi que..."
+Technicien de maintenance CVC dans le tertiaire (H/F),Installation / Maintenance,AXINTERIM,Pays de la Loire,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCJX,35H Travail en journée Salaire brut : Annuel de 21622.0 Euros à 26622.0 Euros sur 12.0 mois,"Aquila RH à Aizenay est une agence spécialisée dans le travail temporaire, CDD et CDI.
+
+Notre engagement, notre proximité et notre transparence envers vous font notre différence. Nous mettons tout en..."
+Mécanicien vehicules (H/F),Installation / Maintenance,PARTNAIRE,Bretagne,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCJP,35H Autre Salaire brut : Annuel de 22000.0 Euros à 40000.0 Euros sur 12.0 mois,"Votre agence Partnaire d'Auray est à la recherche d'un(e) Mécanicien véhicule (H/F) en CDI pour notre partenaire, spécialiste dans le commerce de voitures et de véhicules automobiles légers.
+
+Ce..."
+Electromécanicien,Installation / Maintenance,CRIT INTERIM,Provence-Alpes-Côte d'Azur,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCFS,37H Travail en journée Salaire brut : Annuel de 30000.0 Euros à 35000.0 Euros sur 12.0 mois,"Dans le cadre du développement de son activité, nous recherchons pour notre client, spécialisé dans le secteur de la blanchisserie, un Electromécanicien itinérant en CDI. 
+Poste basé au Muy. 
+
+En..."
+Technicien de maintenance industrielle (H/F),Installation / Maintenance,AQUILA RH,Nouvelle-Aquitaine,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCDX,35H Travail en journée Salaire brut : Annuel de 25000.0 Euros à 40000.0 Euros sur 12.0 mois,"Aquila RH Lot-et-Garonne : là où vos compétences rencontrent nos opportunités.
+Agence de recrutement en intérim, CDI, CDD, spécialisée dans le domaine de l'industrie, du transport, du BTP et de la..."
+Electromécanicien H/F (H/F),Installation / Maintenance,BRAWO,Grand Est,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCDR,35H Travail en journée Salaire brut : Annuel de 25000.0 Euros à 35000.0 Euros sur 13.0 mois,"En tant qu'électromécanicien, vous serez responsable de la maintenance préventive et curative des équipements électromécaniques et du matériel roulant. Vos missions principales incluront la détection..."
+Mécanicien / Mécanicienne automobile (H/F),Installation / Maintenance,FEU VERT,Nouvelle-Aquitaine,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCDJ,35H Autre Salaire brut : Selon profil,"Vos activités principales sont :
+- Révision, pneumatiques, suspensions, freinage, 
+- VIDANGES, PRESTATIONS SERVICE RAPIDE 
+
+Activité du lundi au samedi
+Horaires : amplitude de 9h00 à 19h00"
+Mécanicien automobile service rapide (H/F),Installation / Maintenance,AQUILA RH,Auvergne-Rhône-Alpes,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCDF,35H Travail en journée Salaire brut : Horaire de 12.0 Euros à 14.0 Euros sur 12.0 mois,"""Vous avez un moteur qui tourne à plein régime et un amour inébranlable pour les voitures ?
+
+Tout d'abord, je suis Emmanuelle de l'agence AQUILA RH, spécialisée dans les métiers de..."
+Électrotechnicien / Électrotechnicienne de maintenance sur radars (H/F),Installation / Maintenance,CONNECTT GRAND EST,Grand Est,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCCG,35H Travail en journée Salaire brut : Horaire de 12.0 Euros à 15.0 Euros sur 0.0 mois,"Dans le cadre de son développement et de l'acquisition de nouveaux marchés, notre client, acteur majeur dans la maintenance, l'exploitation, la réhabilitation, le déploiement et la conception..."
+Manutentionnaire aéronautique (H/F),Installation / Maintenance,78 - TOUSSUS LE NOBLE,Île-de-France,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBZK,35H Autre Salaire brut : Mensuel de 2050.00 Euros sur 12 mois,"Votre mission : 
+
+Assistance au déplacement des aéronefs sur les aires de circulation
+Réception/départ avions
+Effectuer les manoeuvres liées au déplacement des aéronefs (accrochage/décrochage..."
+Mécanicien Motoculture (H/F),Installation / Maintenance,ATYPIQUE RH,Occitanie,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBYQ,35H Travail en journée Salaire brut : Horaire de 13.0 Euros à 15.0 Euros sur 12.0 mois,Nous recherchons un Mécanicien Motoculture passionné pour une mission en intérim ou CDI dans le secteur de la motoculture. Rejoignez une équipe dynamique et évoluez dans un environnement...
+Technicien de maintenance mécanique (H/F),Installation / Maintenance,AQUILA RH,Bretagne,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBWT,35H Travail en journée Salaire brut : Horaire de 12.0 Euros à 12.0 Euros sur 12.0 mois,"AQUILA RH VANNES INDUSTRIE, agence de recrutement CDD, CDI et intérim, recherche un Technicien de maintenance mécanique (H/F).
+
+
+Vos missions:
+- Diagnostiquer et contrôler l'installation des..."
+AGENT DE MAINTENANCE COLLEGE de Plougasnou (29) (H/F),Installation / Maintenance,CONSEIL DEPARTEMENTAL DU FINISTERE,Bretagne,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBWS,35H Travail en journée Salaire brut : Mensuel de 1900.0 Euros à 1967.0 Euros sur 12.0 mois,"Le Département du Finistère recrute un agent de maintenance pour son collège de Plougasnou du 06/01/2025 au 09/02/2025
+Cette mission pourra être éventuellement renouvelée sur les périodes scolaires..."
+Gestionnaire de flotte automobile,Installation / Maintenance,AMBULANCES DU COUDRAY,Île-de-France,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBWN,35H Travail en journée Salaire brut : Mensuel de 2800.0 Euros à 3500.0 Euros sur 12.0 mois,"Dans le cadre de notre développement d'activité de transport sanitaire, nous recherchons un / une gestionnaire de flotte H/F.
+Vos missions :
+- Prise d'appel, enregistrement et affectation des..."
+Technicien de maintenance (F/H),Installation / Maintenance,EXPECTRA,Auvergne-Rhône-Alpes,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBWG,35H Travail en journée Salaire brut : Annuel de 23500.0 Euros sur 12.0 mois,"Ce poste, basé à POISY est à pourvoir dans le cadre d'une mission d'une durée de 2 mois minimum avec possibilités de prolongation. 
+
+La rémunération brute annuelle est à négocier selon votre..."
+Chargé de maintenance (H/F),Installation / Maintenance,LT EVOLUTIONS,Auvergne-Rhône-Alpes,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBWD,35H Travail en journée Salaire brut : Annuel de 40000.0 Euros à 45000.0 Euros sur 12.0 mois,"Vous êtes à la recherche d'une nouvelle opportunité en maintenance et la polyvalence des tâches est importante pour vous ? La suite va vous plaire !
+
+
+Vos missions:
+LYNX RH Villefranche Sur Saône,..."
+Directeur Opérationnel Multisites H/F (H/F),Marketing / Stratégie commerciale,SDH RECRUTEMENT,Occitanie,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBZB,40H Travail en journée Salaire brut : Annuel de 55000.0 Euros sur 12.0 mois,"SDH Recrutement, cabinet de conseil en Ressources Humaines recrute, pour son client spécialisé dans la maintenance, l'entretien et la commercialisation des véhicules  poids lourds et industriels un..."
+Charge de clientele (H/F),Marketing / Stratégie commerciale,PROMAN,Hauts-de-France,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBGD,35H Autre Salaire brut : Horaire de 12.14 Euros sur 12.0 mois,"Le poste :
+L'agence d'intérim PROMAN Boulogne sur Mer recherche pour l'un de ses clients spécialisés dans l'énergie un CHARGE DE CLIENTELE H/F Au sein de la Cellule Pilotage des Activités (CPA), vous..."
+Responsable du Développement Commercial - En alternance - BAC +3 (H/F),Marketing / Stratégie commerciale,ASS FORMAT DISTRI PRODUIT ELECTRO GD PUB,Auvergne-Rhône-Alpes,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JZWQ,35H Travail en journée Salaire brut : Mensuel de 774.77 Euros à 1801.8 Euros sur 12.0 mois,"Lieu de formation : CFA de Vénissieux 
+Type de contrat : APPRENTISSAGE 
+Durée de contrat : 12 mois / septembre 2025
+Prérequis : BTS toutes séries, idéalement dans le domaine du commerce 
+Rémunération..."
+Responsable Commercial (H/F),Marketing / Stratégie commerciale,BMSO,Nouvelle-Aquitaine,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JZRR,35H Travail en journée Salaire brut : Mensuel de 2300.0 Euros à 2900.0 Euros sur 12.0 mois,"POINT P recrute un/une Responsable Commercial
+
+Dans le cadre d'un remplacement, nous recrutons un(e) responsable commercial au sein de l'équipe de POINT P PESSAC BERSOL pour garantir la performance..."
+Chef de produit marketing (F/H),Marketing / Stratégie commerciale,EXPECTRA,Île-de-France,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JZJD,35H Travail en journée Salaire brut : Annuel de 41000.0 Euros sur 12.0 mois,"Quelles perspectives captivantes le rôle de Chef de produit marketing (F/H) vous réserve-t-il ?
+En tant que responsable du déploiement d'un nouvel outil digital, vous contribuerez à optimiser la..."
+Assistant service relations clients (H/F),Marketing / Stratégie commerciale,RS DEVELOPPEMENT,Provence-Alpes-Côte d'Azur,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JXGG,35H Travail en journée Salaire brut : Mensuel de 1850.0 Euros sur 12.0 mois,"L'ENTREPRISE
+Créé en 2008, l'Institut RS est une entreprise d'environ 30 personnes, ayant à cœur de préserver ses valeurs humaines et la qualité des liens personnalisés entretenus en interne comme..."
+Responsable développement / Business Developer,Marketing / Stratégie commerciale,CNRS MOY1100 ALPES,Auvergne-Rhône-Alpes,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JWJQ,38H30 Travail en journée Salaire brut : Mensuel de 2847.0 Euros sur 12.0 mois,"Dans le cadre du Pôle universitaire d'Innovation (PUI) FITInnovE du site Grenoble Alpes, les fondateurs (dont le CNRS) et les partenaires du PUI se sont engagés à augmenter l'impact économique de la..."
+Technicien / Technicienne Conseil Promotion (H/F),Marketing / Stratégie commerciale,CCAS,Normandie,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JVRM,35H Autre Salaire brut : Mensuel de 1887.49 Euros sur 12.0 mois,"Situé à Caen, vous intégrez une équipe dynamique et serez sous la responsabilité du Responsable Conseil/Promotion de Normandie.
+
+Vos missions seront les suivantes : 
+- Assurer la permanence du..."
+Chef de projet communication (H/F),Marketing / Stratégie commerciale,75 - PARIS 18,Île-de-France,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JVQT,35H Travail en journée Salaire brut : Annuel de 28000.0 Euros à 34000.0 Euros sur 12.0 mois,"Gestion de projets :
+Recueillir et analyser les besoins des clients.
+Définir les objectifs, la stratégie et le périmètre des projets.
+Élaborer des propositions commerciales et des budgets.
+Planifier..."
+CUSTOMER SUCCESS MANAGER H/F (H/F),Marketing / Stratégie commerciale,CITOPIA,Grand Est,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JVDD,35H Travail en journée Salaire brut : Mensuel de 1850.0 Euros à 2000.0 Euros sur 12.0 mois,"Vous serez au cœur de la réussite de nos projets clients, en pilotant chaque étape avec expertise : de la gestion de projet au déploiement, tout en assurant un accompagnement personnalisé tout au..."
+Space Business Manager (F/H),Marketing / Stratégie commerciale,FERCHAU FRANCE,Occitanie,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JTMM,39H Autre Salaire brut : Annuel de 30000.0 Euros à 60000.0 Euros sur 12.0 mois,"Être la bonne personne, au bon endroit, au bon moment. Chez FERCHAU, nous vous proposons de vous épanouir professionnellement sur des projets excitants, à long terme, au sein d'équipes à taille..."
+Gestionnaire de commandes (H/F),Marketing / Stratégie commerciale,PARTNAIRE NOUVELLE AQUITAINE NORD,Nouvelle-Aquitaine,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JTKS,37H Travail en journée Salaire brut : Horaire de 12.0 Euros à 13.0 Euros sur 12.0 mois,"Envie de prendre un nouvel envol ? Rejoignez un grand groupe dans l'aéronautique ! 
+Notre client est un leader dans le monde aéronautique et n°1 dans la gestion du trafic aérien sur le marché..."
+Manager de site ORNANS (H/F),Marketing / Stratégie commerciale,CRIT,Bourgogne-Franche-Comté,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JTKK,35H Travail en journée Salaire brut : Annuel de 30000.0 Euros à 35000.0 Euros sur 12.0 mois,"CRIT recrute pour son client dans le cadre du développement de son activité,  un(e) Manager (H/F) dans le domaine de la maintenance industrielle sur le secteur d'Ornans.
+
+Pour ce poste vos missions..."
+Merchandiseur 63 (H/F),Marketing / Stratégie commerciale,SALES FACTORY,Auvergne-Rhône-Alpes,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JSHD,35H Travail en journée Salaire brut : Mensuel de 2134.57 Euros sur 12.0 mois,"Aujourd'hui nous recrutons :
+
+Un(e) MERCHANDISEUR dynamique et motivé(e) pour une mission d'un mois possiblement renouvelable à partir de janvier sur le secteur de CLERMONT FERRAND SUD 
+
+Si vous êtes..."
+Merchandiseur 63 (H/F),Marketing / Stratégie commerciale,SALES FACTORY,Auvergne-Rhône-Alpes,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JSFQ,35H Travail en journée Salaire brut : Mensuel de 2134.57 Euros sur 12.0 mois,"Aujourd'hui nous recrutons :
+
+Un(e) MERCHANDISEUR dynamique et motivé(e) pour une mission d'un mois possiblement renouvelable à partir de janvier sur le secteur de CLERMONT FERRAND
+
+Si vous êtes..."
+Merchandiseur 78 (H/F),Marketing / Stratégie commerciale,SALES FACTORY,Île-de-France,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JSDD,35H Travail en journée Salaire brut : Mensuel de 2134.57 Euros sur 12.0 mois,"Aujourd'hui nous recrutons :
+
+Un(e) MERCHANDISEUR dynamique et motivé(e) pour une mission du 2 janvier 2025 au 30 avril 2025
+sur le département du 78
+
+Si vous êtes passionné(e) par le merchandising..."
+Conseiller(e) service client accueil téléphonique (H/F),Marketing / Stratégie commerciale,M.V.D.,Hauts-de-France,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JRPR,35H Autre Salaire brut : Mensuel de 1900.0 Euros sur 13.0 mois,"Pour faire face à son développement, MVD médical recherche un(e) cinquième CONSEILLER(ERE) SERVICE CLIENTS.
+MVD Médical est un acteur majeur régional du maintien à domicile depuis 20 ans. Depuis..."
+Chargé(e) de projet digitale (H/F),Marketing / Stratégie commerciale,SOLEA,Grand Est,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JQPP,35H Autre Salaire brut : Annuel de 34000.00 Euros à 36000.00 Euros sur 14.0 mois,"MISSIONS :
+- Participer à l'identification, au recueil et à la validation des besoins fonctionnels auprès des utilisateurs et des différentes parties prenantes
+- Définir et planifier les objectifs,..."
+Expert ou Experte technico fonctionnel développeur Salesforce Mar (H/F),Marketing / Stratégie commerciale,SNCF GARE DE ST DENIS STADE DE FRANCE,Pays de la Loire,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JQGS,35H Travail en journée Salaire brut : à définir selon profil,"Expert ou Experte technico fonctionnel développeur Salesforce Marketing Cloud
+Publiée le 09/12/2024
+
+Description de l'employeur
+Rejoignez un environnement stimulant et des équipes passionnées qui..."
+Contract Manager - Pilote Centre de Services - F/H (H/F),Marketing / Stratégie commerciale,SNCF GARE DE ST DENIS STADE DE FRANCE,Île-de-France,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JQGP,35H Travail en journée Salaire brut : à définir selon profil,"Contract Manager - Pilote Centre de Services - F/H
+Publiée le 09/12/2024
+
+Description de l'employeur
+SNCF Réseau est le gestionnaire d'infrastructure ferroviaire français. Société anonyme à capitaux..."
+Chargé de recrutement (H/F),Ressources Humaines,GROUPE ADEQUAT,Pays de la Loire,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCMR,35H Travail en horaires décalés Salaire brut : Mensuel de 1833.0 Euros à 2250.0 Euros sur 12.0 mois,"Nous recrutons notre futur(e) chargé de recrutement (H/F) pour intégrer notre agence de La Roche sur Yon en CDI.
+
+Votre rôle au sein de l'équipe sera de recruter et participer au développement de..."
+Assistant d'agence H/F,Ressources Humaines,OUI CARE HUMAN RESOURCES,Hauts-de-France,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCKQ,35H Travail en journée Salaire brut : Mensuel de 1900.0 Euros à 1900.0 Euros sur 12.0 mois,"O2 est la marque principale du Groupe Oui Care, leader français des services à la personne et a été élue marque préférée des français en 2022. Présent sur l'ensemble du territoire français, O2..."
+Chargé / Chargée de recrutement et développement RH (H/F),Ressources Humaines,CHARLATTE MANUTENTION,Bourgogne-Franche-Comté,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBXW,35H Travail en journée Salaire brut : Participation/action,"Rejoindre Charlatte Manutention, c'est :
+Travailler pour l'un des leaders mondiaux de la fabrication et de la vente de tracteurs de manutention électrique et thermique. Nos véhicules transportent les..."
+Technicien paie (F/H),Ressources Humaines,RANDSTAD,Centre-Val de Loire,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBWL,35H Travail en journée Salaire brut : Annuel de 21700.0 Euros sur 12.0 mois,"Nous recherchons pour le compte de notre client, un organisme public, un technicien paie (F/H) dans le cadre d'un CDD de 3 mois, renouvelable 1 fois (6 mois au total). 
+
+Vous êtes en charge de la..."
+Assistant ressources humaines (F/H),Ressources Humaines,EXPECTRA,Île-de-France,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBSD,35H Travail en journée Salaire brut : Annuel de 34000.0 Euros sur 12.0 mois,"Vos missions  seront: 
+
+-Traiter les demandes des collaborateurs, des managers et des partenaires RH, adressées via l'outil de gestion des demandes
+
+-Assurer l'accueil physique et..."
+ASSISTANT ADMINISTRATIF,Ressources Humaines,ADECCO,Centre-Val de Loire,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBNN,35H Travail en journée Salaire brut : Salaire selon profil,"Nous recrutons pour notre client, société spécialisée dans la fabrication d'emballages destinés à l'agroalimentaire, un(e) Assistant RH/Administratif  H/F en CDI.
+Sous la direction du responsable,..."
+Chargé de recherche (H/F),Ressources Humaines,SUNSET DEVELOPMENT GROUP,Occitanie,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBDL,35H Travail en journée Salaire brut : Mutuelle,"Empreint de réelles valeurs humaines, continuum international chasse et recrute sur le marché caché des personnalités, des experts, cadres ou dirigeants, qui souhaitent vivre de nouveaux défis au..."
+Gestionnaire des ressources humaines (H/F),Ressources Humaines,CENTRE HOSPITALIER SAINTE ANNE,Île-de-France,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JZZZ,37H30 Travail en journée Salaire brut : Mensuel de 2249.0 Euros à 2282.0 Euros sur 12.0 mois,"Temps de travail : 7h30
+Statut : Titulaire/Contractuel
+Grade : Adjoint Administratif
+Intitulé du poste : Gestionnaire de la gestion des carrières
+Organisation du travail : Travail en équipe - 1 jour..."
+Technicien-ne paie en Télé Travail 100 % (H/F),Ressources Humaines,J'ADORE CE QUE VOUS FAITES,Nouvelle-Aquitaine,CDD,Temps partiel,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JZQM,"temps partiel - 17H Possibilité de télétravail
+100% Télé travail Salaire brut : Groupe 5 / Echelon à déterminer","Rattachée à la direction vous travaillez en étroite collaboration avec la chargée d'administration responsable de l'accueil et de la gestion du service CA C'EST FAIT.
+Vous collectez les informations,..."
+Responsable Administration du Personnel (H/F),Ressources Humaines,Fondation J.J. LAFFONT TSE-S,Occitanie,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JZGQ,35H Autre Salaire brut : Annuel de 30000.0 Euros à 40000.0 Euros sur 13.0 mois,"Sous l'autorité de la Secrétaire Générale & Directrice de l'Etablissement TSE-S, le. la Responsable Administration du Personnel a pour rôle d'assurer la gestion des ressources humaines de la..."
+Assistant / Assistante ressources humaines,Ressources Humaines,JMDS RECORD,Provence-Alpes-Côte d'Azur,Intérim,Temps partiel,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JZBX,temps partiel - 17H Travail en journée Salaire brut : Mensuel de 2100.0 Euros sur 12.0 mois,Au sein d'un organisme qui soutient l'éducation Familiale et le handicap et en lien avec la direction RH vous aurez en charge l'administration du personnel de l'entrée à la sortie pour environ 45...
+Responsable des Ressources Humaines -RRH-,Ressources Humaines,HOPITAL PIERRE LOO,Bourgogne-Franche-Comté,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JZBN,39H Travail en journée Salaire brut : selon expérience,"La/Le responsable des ressources humaines pilote la mise en œuvre opérationnelle de la politique RH et 
+coordonne les activités du SRH. Il/Elle dispose d'une délégation de compétences accordée par la..."
+Chargé(e) de recrutement / administration du personnel (H/F),Ressources Humaines,LYNX RH TERTIAIRE,Île-de-France,CDI,Temps partiel,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JYYR,temps partiel - 34H Autre Salaire brut : Annuel de 35000.0 Euros à 40000.0 Euros sur 12.0 mois,"Notre cabinet de recrutement spécialisé en Fonctions support - tertiaire Lynx RH recherche pour son client, acteur majeur en cybersécurtié, un(e) : Chargé(e) recrutement / administration du personnel..."
+Responsable  Ressources Humaines et gestion de Paye (H/F),Ressources Humaines,Etablissement  LES OLIVIERS,Provence-Alpes-Côte d'Azur,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JYLC,35H Travail en journée Salaire brut : Primes,"Le CASIM, association reconnue d'utilité publique œuvrant dans le secteur médicosocial est engagé dans l'accompagnement des personnes vulnérables. Notre établissement réunit un EHPAD (65 places), une..."
+Assistant-e de gestion des ressources humaines (H/F),Ressources Humaines,UNIVERSITE DE STRASBOURG,Grand Est,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JXPW,37H30 Travail en journée Salaire brut : Catégorie C. Adjoint technique,"Affectation : Sciences Po Strasbourg / Service RH
+
+Emploi ouvert aux agents contractuels uniquement
+
+CDD 1 an (renouvelable) à pourvoir à compter du 01/02/2025
+
+Catégorie : C     Corps: Adjoint..."
+Chargé de recrutement (H/F),Ressources Humaines,GROUPE PARTNAIRE,Île-de-France,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JXHW,35H Travail en journée Salaire brut : Mensuel de 2000.0 Euros à 2000.0 Euros sur 12.0 mois,"Rejoignez un leader du recrutement en France, riche de plus de 70 ans d'expertise en ressources humaines. Engagé auprès des entreprises et des talents, nous offrons des solutions sur-mesure pour..."
+Gestionnaire de Paie en CDI à Paris 15 H/F (H/F),Ressources Humaines,DYNAMIS - INTERIM,Île-de-France,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JXCY,35H Travail en journée Salaire brut : Annuel de 45000.0 Euros à 55000.0 Euros sur 12.0 mois,"Dynamis-RH, spécialiste des métiers de la Comptabilité, Gestion, Paie, Ressources Humaines, Juridique et Digital/IT recherche pour l'un de ses clients, un(e) Gestionnaire de Paie en CDI à Paris 15..."
+Gestionnaire de paie (F/H),Ressources Humaines,RANDSTAD,Hauts-de-France,CDD,Temps partiel,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JWYL,temps partiel - 28H Travail en journée Salaire brut : Horaire de 14.5 Euros sur 12.0 mois,"Vos principales missions :
+
+- gestion de paie
+
+- Contrat
+
+- Déclaration sociales, dsn et corrections éventuelles
+
+- Saisie de factures
+
+- Rapprochement bancaire"
+Responsable des Ressources Humaines -RRH- (H/F),Ressources Humaines,EHPAD DE PAMPELONNE,Occitanie,CDD,Temps partiel,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JWXH,temps partiel - 33H Autre Salaire brut : Horaire de 12.65 Euros sur 14 mois,"Au sein d'un EHPAD :
+Vos missions :
+- Gestion du temps et des activités
+- Réalisation et suivi des plannings
+- Suivi administratif dossiers du personnel
+- Réalisation de tableaux de bord de suivi et..."
+IDE SMR LISP (H/F),Santé,CENTRE HOSPITALIER DE BASSE VILAINE,Bretagne,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCPP,35H Autre Salaire brut : Selon grille indiciaire,"Le Centre Hospitalier Basse Vilaine, situé à Nivillac dans le Morbihan (56) recherche un ou une infirmière en SMR/LISP:
+
+Vos missions :
+- Participer à la prise en soin des patients dans le respect du..."
+Cadre de bloc opératoire (H/F),Santé,CLINIQUE DES ORMEAUX SA,Normandie,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCPL,35H Autre Salaire brut : Salaire selon profil,"Dans le cadre de cette mission, vous serez responsable de la coordination et de la gestion efficace de toutes les activités liées au bloc opératoire de l'établissement, ainsi que de veiller à la..."
+Infirmier diplômé d'état F/H,Santé,AILE MEDICALE,Pays de la Loire,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCPF,35H Travail en journée Salaire brut : Annuel de 30000.0 Euros à 35000.0 Euros sur 12.0 mois,"Le Centre  est un établissement de Santé Privé. Centre de Soins Médicaux et de Réadaptation pour adultes, il assure une activité médicale de soins et de réadaptation, dans la continuité des prises en..."
+Pharmacien assistant / Pharmacienne assistante (H/F),Santé,MR PHARMACIE,Occitanie,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCLM,35H Autre Salaire brut : Mensuel de 4326.0 Euros à 5180.0 Euros sur 12.0 mois,"Nous recherchons 1 pharmacien(ne) assistants à temps plein.
+Pharmacie robotisée
+Logiciel Winpharma
+Spécialisé en PDA, Matériel médical, Orthopédie, Vaccination et Entretiens
+Equipe de 15..."
+Auxiliaire de puériculture (H/F),Santé,CRECHE LES MYOSOTIS,Provence-Alpes-Côte d'Azur,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCDW,39H Autre Salaire brut : Mensuel de 2039.8 Euros sur 12.0 mois,"L'association Saint Joseph-AFOR recrute à partir du 6 janvier 2024 un.e auxiliaire de puériculture (H/F) pour sa crèche sociale de 42 berceaux, accueillant des enfants de 3 mois à 3 ans du lundi au..."
+Assistant(e) médicale dans un cabinet dentaire  (H/F),Santé,SAVALLE PIERRE-JEAN,Pays de la Loire,CDD,Temps partiel,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBXS,temps partiel - 24H Autre Salaire brut : Horaire de 11.88 Euros,"Recherche secrétaire médicale  confirmée ou bien en cours de formation au sein d'un cabinet dentaire  à Rezé pour  une prise de poste en Janvier 2025
+
+Vous travaillerez sous la supervision d'une..."
+Manipulateur en radiologie (H/F),Santé,CHAM,Auvergne-Rhône-Alpes,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBVQ,35H Travail en journée Salaire brut : Mensuel de 2800.0 Euros sur 12.0 mois,"Le Centre Hospitalier Albertville-Moutiers (73), , recrute un manipulateurs(trice) en imagerie médicale sur Albertville et Moûtiers.
+Poste à temps plein ou partiel en radiologie conventionnelle et..."
+Infirmier(e) (H/F),Santé,Lits d'accueil Médicalisés,Hauts-de-France,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBRP,35H Autre Salaire brut : Mensuel de 1896 Euros à 2538 Euros sur 12 mois,"Pour nos Lits d'Accueil Médicalisés (LAM), nouvel établissement d'hébergement de 25 résidents, à taille humaine, dans un bâtiment complétement réhabilité, situé à Saint-Quentin, nous recrutons un(e)..."
+Médecin rééducateur (H/F),Santé,MAISON D ACCUEIL SPECIALISEE HENRI CUQ,Île-de-France,CDI,Temps partiel,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBQK,temps partiel - 5H15 Travail en journée Salaire brut : Mensuel de 755.0 Euros à 1288.0 Euros sur 12.0 mois,"L'association HANDI VAL DE SEINE de Seine basée dans les Yvelines, accompagne plus de 1500 personnes en situation de handicap (handicap psychique, TSA .). Elle compte aujourd'hui 20 établissements et..."
+Aide soignant (H/F),Santé,Mairie de saint etienne,Auvergne-Rhône-Alpes,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBQG,38H Autre Salaire brut : Mensuel de 2200.00 Euros sur 12 mois,"Contexte :
+La Direction Séniors, Solidarité a en charge la gestion de huit résidences pour personnes âgées (EHPAD et résidence Autonomie). La Direction recherche des aide-soignant(e)s en contrat à..."
+ASH ACCOMPAGNEMENT (H/F),Santé,28 - COURVILLE SUR EURE,Centre-Val de Loire,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBQF,35H Autre Salaire brut : Mensuel de 2200.0 Euros à 2300.0 Euros sur 12.0 mois,"Situé sur un parc de 11 hectares sur la commune de Courville sur Eure, à 15 minutes de Chartres, le Foyer Gérard Vivien est à la recherche d'agent de services hospitaliers.
+Accompagnement de..."
+Assistant / Assistante dentaire,Santé,ASSOCIATION MEDICO DENTAIRE D'OYONNAX,Auvergne-Rhône-Alpes,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBHB,35H Travail en journée Salaire brut : Mensuel de 2000.0 Euros à 2500.0 Euros sur 12.0 mois,"Bonjour, 
+
+Nous sommes à la recherche d'une (ou d'un) assistant(e) dentaire diplômé(e) pour rejoindre notre équipe sur Oyonnax.
+Poste à 35 heures. Travail sur 4 jours les: Lundi Mercredi Jeudi et..."
+Infirmier préleveur / Infirmière préleveuse (H/F),Santé,CERBALLIANCE PORTES DE BRETAGNE,Bretagne,CDD,Temps partiel,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBGF,temps partiel - 28H Autre Salaire brut : Mensuel de 2190.0 Euros à 2500.0 Euros sur 12.0 mois,"Pour notre laboratoire de Liffré (35), nous recherchons un.e Infirmier.e ou un.e Technicien.ne Préleveur.se en CDD à 80% jusqu'à fin janvier. Prise de poste dès que possible.
+L'établissement sera..."
+Préparateur / Préparatrice en pharmacie hospitalière  (H/F),Santé,CENTRE HOSPITALIER INTERCOMMUNAL,Occitanie,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBBQ,40H Autre Salaire brut : GRILLE FONCTION PUB HOSPITALIERE,"Nous recrutons un PREPARATEUR EN PHARMACIE F/H pour notre officine hospitalière.
+Compétences/ savoir-faire 
+Analyser les prescriptions et les demandes des services de soins en produits..."
+Infirmier(e) (H/F),Santé,MAIRIE,Hauts-de-France,CDD,Temps partiel,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBBH,temps partiel - 30H Autre Salaire brut : Primes,"La mairie de Douai recrute  des infirmier(e)s.
+
+Missions :
+Activités relationnelles
+- Etablir une relation de confiance avec la personne âgée et sa famille,
+- Etre à l'écoute, déceler et évaluer les..."
+Agent / Agente de bio nettoyage hospitalier,Santé,ATMOS RENNES,Normandie,CDD,Temps partiel,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JZZL,temps partiel - 27H30 Travail en journée Salaire brut : Horaire de 12.17 Euros à 12.3 Euros sur 0.0 mois,"Nous sommes à la recherche d'un agent de bio nettoyage H/F pour intervenir dans un centre de dialyse à Avranches.
+
+Poste en remplacement du 23.12 AU 29.12:
+
+- le lundi de 7h00 à 14h00
+- le jeudi  de..."
+Agent / Agente des services hospitaliers (H/F),Santé,POLE DE SANTE LA REVISCOLADA,Occitanie,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JZZK,35H Autre Salaire brut : Mensuel de 2200 Euros à 2500 Euros sur 12 mois,"- Assistance aux personnes, aux patients / résidents pour la réalisation des actes de la vie quotidienne (aide aux repas, toilettes...)
+ 
+- Réception et distribution de produits (repas, matériels...)"
+Infirmier (H/F),Santé,Mairie de saint Etienne,Auvergne-Rhône-Alpes,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JZZH,38H Autre Salaire brut : Mensuel de 2600.00 Euros sur 12 mois,"Contexte :
+La Direction Seniors Solidarité a en charge sept établissements municipaux d'hébergement pour personnes âgées (5 EHPAD et 2 Résidences Autonomie). Elle recherche pour ses établissements, 1..."
+Agent de Service Polyvalent en EHPAD (H/F),Santé,CITES CANTALIENNES - SIEGE,Auvergne-Rhône-Alpes,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JZYP,35H Travail en journée Salaire brut : Mensuel de 1802.0 Euros à 1803.0 Euros sur 12.0 mois,"Les Cités Cantaliennes d'Automne recherchent un agent de service polyvalent en CDI, pour l'EHPAD La Forêt à Ytrac.
+
+L'agent de service polyvalent (h/f) est chargé(e) de l'entretien et de l'hygiène..."
+Agent / Agente d'accueil,Secrétariat / Assistanat,LES JEUNES CHENES,Nouvelle-Aquitaine,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCKJ,"35H Autre
+du lundi au dimanche par roulement Salaire brut : selon profil + prime ségur","La clinique les jeunes chênes à Pau recherche un(e) agent d'accueil pour un remplacement maladie - poste à pourvoir des que possible et jusqu'au 31/12/2024, renouvelable
+
+Activités : accueil physique..."
+Technicien administratif faisant fonction de comptable (H/F),Secrétariat / Assistanat,ASSOCIATION DEPARTEMENTALE DES PUPILLES ,Nouvelle-Aquitaine,CDI,Temps partiel,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCHV,temps partiel - 17H30 Travail en journée Salaire brut : Mensuel de 1016.66 Euros sur 12.0 mois,"""Rejoindre les PEP, c'est : 
+- Intégrer une association qui, depuis plus de 100 ans, se consacre à l'éducation et à la formation des enfants, adolescents et adultes victimes de la pauvreté, de..."
+Caissier(e) Facturier(e) H/F,Secrétariat / Assistanat,94 - RUNGIS,Île-de-France,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCGT,"35H Autre
+Heures nuit majorées Salaire brut : Mensuel de 1900 Euros à 2100 Euros sur 12 mois","Vivez une expérience humaine passionnante en qualité de Caissier Facturier H/F **2 postes à pourvoir**
+
+**TRAVAIL DE NUIT 2h-9h30**
+
+Vous aurez pour mission :
+
+1. Les opérations de caisse
+Saisir les..."
+Agent / Agente d'accueil (H/F),Secrétariat / Assistanat,UNION DEP ASSOCIATIONS FAMILLE,Nouvelle-Aquitaine,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCFZ,35H Autre Salaire brut : Mensuel de 2039.84 Euros sur 12.0 mois,"Sous l'autorité de la Directrice Administrative et Financière, vos domaines d'intervention seront les suivants :
+
+SERVICE ACCUEIL
+- Assurer l'accueil physique et l'accueil téléphonique,
+- Traiter le..."
+Gestionnaire de remplacements temporaires (H/F),Secrétariat / Assistanat,AFPA,Pays de la Loire,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBYX,35H Travail en journée Salaire brut : Annuel de 28000.0 Euros à 29000.0 Euros sur 13.0 mois,"La Direction des Itinérants et de la mobilité temporaire répond aux besoins temporaires des centres Afpa.
+Elle recrute un cadre de gestion pour sa plateforme de gestion des mouvements itinérants.
+Ce..."
+Chargé d'accueil et d'animation (H/F),Secrétariat / Assistanat,MISSION LOCALE ASSOCIATION,Occitanie,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBYG,"35H Autre
+9h00-12h30/13h30-17h00 Salaire brut : Mensuel de 1898.79 Euros sur 12 mois","La Mission Locale recrute un/une Chargé(e) d'accueil et d'animation: 
+
+Missions principales: 
+
+- Accueillir, prendre en compte tout public et gérer les flux
+- Instaurer une relation de respect et..."
+Distributeur courrier Dammarie voir horaires (H/F),Secrétariat / Assistanat,77 - VAUX LE PENIL,Île-de-France,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBXN,"35H Autre
+voir horaires dans descriptif Salaire brut : Mensuel de 1801.8 Euros sur 12 mois","CE POSTE S'ADRESSE AUX TITULAIRES DU PERMIS B DEPUIS PLUS DE 2 ANS. 
+POUR POSTULER, MERCI IMPERATIVEMENT DE PRECISER DANS LA PARTIE ""MOTIVATION"" DU FORMULAIRE DEPUIS QUAND VOUS ETES TITULAIRE DU..."
+Employé administratif / Employée administrative,Secrétariat / Assistanat,MME VIVIANE AUDOLY,Provence-Alpes-Côte d'Azur,CDI,Temps partiel,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBXD,temps partiel - 20H Autre Salaire brut : .,"Pour une personne en situation de handicap, vous réaliserez l'accompagnement aux tâches administratives (au domicile).
+
+Les missions consistent :
+
+- aide au travail administrative et entretien du..."
+Technicien/Technicienne d'Information Médicale - hôpital psychiat (H/F),Secrétariat / Assistanat,CENTRE HOSPITALIER GEORGES DAUMEZON,Pays de la Loire,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBWW,35H Travail en journée Salaire brut : Mensuel de 2240.0 Euros sur 12.0 mois,"Dans le cadre de sa politique de recrutement, le Centre Hospitalier Georges Daumézon lutte contre toutes les formes de discrimination et favorise l'égalité d'accès des candidats en élargissant la..."
+Agent / Agente du service de courrier interne,Secrétariat / Assistanat,INTERIMA,Provence-Alpes-Côte d'Azur,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBQR,35H Travail en journée Salaire brut : Mensuel de 1836.0 Euros sur 12.0 mois,"Le bureau INTERIMA est à la recherche d'un(e) agent de courrier sur Nice Ouest pour une société de mutuelle et prévoyance santé. 
+
+Vos missions: 
+
+- Réception du courrier 
+- Ouverture, comptage et..."
+Agent administratif / Agente administrative,Secrétariat / Assistanat,27 - PONT DE L ARCHE,Normandie,CDD,Temps partiel,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBQC,temps partiel - 28H Autre Salaire brut : grille fonction publique,"Pour le remplacement d'un congé maternité :
+Sous l'autorité du Directeur du Pôle Cadre de Vie, Développement Durable, Urbanisme et Patrimoine :
+Mission principale :Accueil physique et téléphonique..."
+assistant administratif et financier (H/F),Secrétariat / Assistanat,26 - BOURG LES VALENCE,Auvergne-Rhône-Alpes,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBJR,35H Autre Salaire brut : Annuel de 27500 Euros sur 13 mois,"La chambre d'agriculture de la Drôme vous propose un emploi stable et riche en défis, de l'autonomie et de la flexibilité dans vos missions, une ambiance de travail collaborative, tout en respectant..."
+Agent de Facturation (h/f),Secrétariat / Assistanat,ADECCO,Île-de-France,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBJH,35H Autre Salaire brut : Salaire selon profil,"Adecco Rungis, recherche pour son client un(e) Caissière facturière (H/F), dans le cadre d'un contrat d'intérim d'une durée de 3 mois à Rungis.
+
+La durée de travail est de 39H hebdomadaire du lundi..."
+Assistant Administratif (h/f),Secrétariat / Assistanat,ADECCO,Grand Est,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBHG,35H Travail en journée Salaire brut : Mensuel de 2000.0 Euros à 2083.0 Euros sur 12.0 mois,"Mission principale
+Votre rôle sera de prendre en charge le support d'exploitation pour les clients, les partenaires et les sous-traitants, de contribuer à la supervision de l'activité du terrain et..."
+Assistant administratif / Assistante administrative (H/F),Secrétariat / Assistanat,Foyer d'hébergement - Anais,Centre-Val de Loire,CDD,Temps partiel,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBBT,temps partiel - 21H Travail en journée Salaire brut : 1058€ mensuel,"Au sein d'un foyer d'hébergement accueillant des personnes en situation de handicap, nous recherchons en CDD un.e assistant.e administratif.ive à 60% répartis en 3 jours par semaine à compter de..."
+Facteur / Factrice (H/F),Secrétariat / Assistanat,LA POSTE,Occitanie,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JZWY,35H Autre Salaire brut : selon grille de la fonction,"Plusieurs postes à pourvoir immédiatement. en contrat de courte/moyenne durée.
+Les contrats sont amenés a être renouvelés en fonction de votre implication, de vos résultats et besoins du secteur..."
+Hôte de caisse H/F,Secrétariat / Assistanat,INTERSPORT,Occitanie,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JZWJ,35H Travail en journée Salaire brut : Annuel de 21621.6 Euros sur 12.0 mois,"POSTE
+
+A ce jour le Groupe Frontera compte 11 magasins sur la région Occitanie. Intersport est une enseigne en forte croissance et évolution. Dans ce contexte, l'investissement et le potentiel des..."
+Apprenti Manager - En alternance - BTS MCO NIV BAC +2 (H/F),Secrétariat / Assistanat,ASS FORMAT DISTRI PRODUIT ELECTRO GD PUB,Auvergne-Rhône-Alpes,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JZVX,35H Travail en journée Salaire brut : Mensuel de 774.77 Euros à 1801.8 Euros sur 12.0 mois,"Vous avez un bon sens relationnel, le goût du challenge et souhaitez effectuer des études supérieures dans un environnement bienveillant ? Ne cherchez plus ! 
+
+Lieu de formation : CFA de Vénissieux..."
+Agent administratif (F/H),Secrétariat / Assistanat,EXPECTRA,Grand Est,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JZVF,35H Travail en journée Salaire brut : Annuel de 24000.0 Euros sur 12.0 mois,"Mission principale
+
+Votre rôle sera de prendre en charge le support d'exploitation pour les clients, les partenaires et les sous-traitants, de contribuer à la supervision de l'activité du Terrain et..."
+Assistant administatif (H/F),Secrétariat / Assistanat,PROMAN,Bretagne,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JZHQ,35H Travail en journée Salaire brut : Horaire de 11.88 Euros sur 12.0 mois,"Le poste :
+Votre agence PROMAN VANNES recherche pour l'un de ses clients spécialisé dans le transport un ASSISTANT ADMINISTRATIF (H/F) . Ce poste comprend principalement les missions suivantes : -..."
+Aide aux personnes âgées  (H/F),Services à la personne / à la collectivité,AIDE A DOMICILE EN TONNERROIS,Bourgogne-Franche-Comté,CDD,Temps partiel,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCQG,temps partiel - 30H Au domicile d’un particulier Salaire brut : Horaire de 11.88 Euros à 13.89 Euros sur 12 mois,"Nous recherchons quelqu'un (h/f) pour un CDD 2 mois, 130 h par mois sur le secteur d'Ancy-le-franc.
+
+Vous irez au domicile des personnes afin de les aider dans les actes essentiels de la vie..."
+Assistant / Assistante de vie dépendance (H/F),Services à la personne / à la collectivité,ADHAP,Île-de-France,CDI,Temps partiel,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCPX,temps partiel - 30H Autre Salaire brut : Horaire de 12.29 Euros à 13.55 Euros sur 12.0 mois,"le centre ADHAP de PARIS 75019 recrute des assistant(e)s de vie ( H-F).
+Dans le cadre de ses fonctions et sans que cette liste soit limitative, le salarié sera chargé d'assurer notamment : l'aide à..."
+Garde d'enfant à domicile (H/F),Services à la personne / à la collectivité,BABYCHOU SERVICES,Occitanie,CDI,Temps partiel,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCPS,temps partiel - 5H Autre Salaire brut : Horaire de 12 Euros,"Entreprise : Babychou Services
+
+Lieu : Larra
+
+Horaires : de 06h30 à 08h30 les lundis, mardis et mercredis matins.
+
+Description du Poste : Babychou Services recherche intervenant(e) à domicile à Larra..."
+Chef d'équipe SSIAP 2 (H/F),Services à la personne / à la collectivité,TORANN-FRANCE,Bretagne,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCNS,35H Travail en journée Salaire brut : Mensuel de 2105.0 Euros à 2106.0 Euros sur 12.0 mois,"Sur un site client grande galerie commerciale, située à RENNES (35), nous recherchons un Chef d'équipe SSIAP2 H/F.
+Vous assurerez les missions suivantes : management des agents, maintien des..."
+Educateur spécialisé (H/F),Services à la personne / à la collectivité,75 - Paris,Île-de-France,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCNM,35H Travail en journée Salaire brut : Mensuel de 2195.0 Euros sur 12.0 mois,"L'accompagnement proposé vise au développement de la personnalité et à l'épanouissement des jeunes ainsi qu'à la mise en œuvre d'actions collectives.
+
+Cet accompagnement s'effectue selon le profil du..."
+Agent / Agente d'entretien de nettoyage industriel,Services à la personne / à la collectivité,PLUSERVICE,Pays de la Loire,CDD,Temps partiel,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCNH,temps partiel - 5H Travail en journée Salaire brut : Horaire de 12.13 Euros sur 0.0 mois,"bonjour,
+nous recherchons un agent d'entretien pour un remplacement de congé du 31/12/2024 AU 08/03/2025
+vous serez en charge du nettoyage de parties communes situé sur nantes Beaulieu prestations a..."
+Archiviste (H/F),Services à la personne / à la collectivité,TUTELIA,Île-de-France,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCMG,35H Travail en journée Salaire brut : Mensuel de 1937.61 Euros à 2160.79 Euros sur 12.0 mois,"MERCI DE JOINDRE UNE LETTRE DE MOTIVATION A VOTRE CANDIDATURE.
+
+Méthodique et organisé, vous faites preuve de rigueur et d'organisation. Une maîtrise des processus de gestion des archives est..."
+Accompagnant éducatif et social / Accompagnante éducative e (H/F),Services à la personne / à la collectivité,LES PAPILLONS BLANCS BOURGOGNE DU SUD,Bourgogne-Franche-Comté,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCLN,35H Autre Salaire brut : CE,"Fonctions et activités principales :     
+ - Aider et accompagner par l'apprentissage, la suppléance, les personnes dépendantes dans les actes de la vie quotidienne (lever, toilette, habillage, repas..."
+Responsable de Compte (F/H),Services à la personne / à la collectivité,ADEQUAT 017,Auvergne-Rhône-Alpes,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCLK,35H Travail en horaires décalés Salaire brut : Mensuel de 1833.0 Euros à 2250.0 Euros sur 12.0 mois,"Poste en CDD à pourvoir dès que possible jusqu'au 30/09/2025.
+
+Plus de 20.000 salariés sont en poste chaque jour grâce à l'accompagnement et au savoir-faire de plus de 1000 recruteurs spécialisés...."
+Responsable de Compte (F/H),Services à la personne / à la collectivité,ADEQUAT 017,Bourgogne-Franche-Comté,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCLJ,35H Travail en horaires décalés Salaire brut : Mensuel de 1833.0 Euros à 2250.0 Euros sur 12.0 mois,"Poste en CDD à pourvoir dès que possible jusqu'au 30/09/2025.
+
+Plus de 20.000 salariés sont en poste chaque jour grâce à l'accompagnement et au savoir-faire de plus de 1000 recruteurs spécialisés...."
+Mandataire judiciaire à la protection des majeurs           (H/F),Services à la personne / à la collectivité,TUTELIA,Île-de-France,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCLH,35H Travail en journée Salaire brut : Mensuel de 2100.71 Euros à 2542.78 Euros sur 12.0 mois,"MERCI DE JOINDRE UNE LETTRE DE MOTIVATION A VOTRE CANDIDATURE.
+
+Vous êtes diplômé CESF, AS, Educateur Spécialisé, en droits privés ou sciences humaines ou spécialisé dans la protection juridique des..."
+Travailleur social Formateur H/F,Services à la personne / à la collectivité,RESEAU EXPER GERSOIS D AIDE REINSERTION,Occitanie,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCKR,35H Autre Salaire brut : Annuel de 25000.00 Euros à 38000.00 Euros sur 12 mois,L'association REGAR gère un centre de formation dédié à l'insertion sociale et professionnelle des publics en situation de grande précarité. Nous intervenons auprès de publics variés tels que les...
+UN(E) DIRECTEUR ADJOINT ALAE-ALSH (H/F),Services à la personne / à la collectivité,COMMUNE DE LAUNAGUET,Occitanie,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCKP,35H Autre Salaire brut : grille indiciaire d'adjoint,"Sous l'autorité du Directeur ALAE, l'agent sera chargé(e) d'organiser et coordonner la mise en place des activités qui découlent du projet pédagogique concernant l'accueil de jeunes enfants,..."
+Garde d'enfant à domicile (H/F),Services à la personne / à la collectivité,ILYTIS SERVICES,Provence-Alpes-Côte d'Azur,CDI,Temps partiel,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCKL,temps partiel - 6H Travail en journée Salaire brut : Horaire de 11.88 Euros sur 0.0 mois,"Nous recherchons un intervenant H/F pour de la garde d'enfant de 2 enfants sur le secteur de Entraigues à compter du 6 janvier 2025.
+
+Vous justifiez impérativement d'une expérience réussie dans la..."
+Auxiliaire de Vie H/F,Services à la personne / à la collectivité,AZAE POITIERS,Nouvelle-Aquitaine,CDI,Temps partiel,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCJZ,temps partiel - 25H Travail en journée Salaire brut : Horaire de 12.4 Euros sur 12.0 mois,"Vos missions :
+DEVENEZ LE RAYON DE SOLEIL DE NOS BÉNÉFICIAIRES !
+
+Vous souhaitez vivre une aventure humaine ? Rejoignez-nous dès maintenant ! Notre agence recrute un(e) auxiliaire de vie.
+
+
+LES..."
+Éducateur spécialisé / Éducatrice spécialisée (H/F),Services à la personne / à la collectivité,ASSOCIATION SAINT JOSEPH AFOR,Provence-Alpes-Côte d'Azur,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCJS,35H Autre Salaire brut : Mensuel de 2482.0 Euros sur 12.0 mois,La mission principale de l'association est d'accueillir et d'accompagner des personnes avec ou sans enfants qui sont sans logement et sans ressource suite à des situations de...
+Agent(e) d'entretien (H/F),Services à la personne / à la collectivité,PROPRETE BRETAGNE CENTRE,Bretagne,CDI,Temps partiel,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCJQ,temps partiel - 2H30 Travail en journée Salaire brut : Horaire de 12.13 Euros à 12.17 Euros sur 0.0 mois,"PROPRETE BRETAGNE CENTRE recherche un(e) agent(e) d'entretien des locaux sur le secteur de REGUINY - RADENAC (56).
+
+Les missions sont les suivantes : 
+- entretien de sanitaires
+- entretien de..."
+EDUCATEUR SPECIALISE CHATENOY LE ROYAL (H/F),Services à la personne / à la collectivité,MUTUALITE FRANCAISE SAONE ET LOIRE,Bourgogne-Franche-Comté,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCJM,38H Autre Salaire brut : CONVENTION 66,"EDUCATEUR (H/F) EN CDD
+
+Temps plein
+
+Et si c'était vous ?
+
+Vous avez fait le vœu de rejoindre une entreprise dynamique, innovante et qui aura le souhait de vous accompagner dans votre projet..."
+Animateur en Ehpad (H/F),Services à la personne / à la collectivité,CENTRE INTERCOMMUNAL D'ACTION SOCIALE,Bretagne,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCJF,35H Travail en journée Salaire brut : Selon grille et expérience,"Le CIAS du Pays Fouesnantais recrute un(e) animateur/animatrice. Il contribue à favoriser l'épanouissement de la personne et sa participation à la vie sociale au travers d'activités adaptées,..."
+Agent / Agente de propreté de locaux (H/F),Services à la personne / à la collectivité,CLEAN ATTITUDE,Pays de la Loire,CDI,Temps partiel,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCHQ,temps partiel - 5H Travail en journée Salaire brut : Horaire de 12.17 Euros sur 0.0 mois,"CLEAN attitude est une entreprise de nettoyage spécialisée dans le nettoyage de locaux et de nettoyage de fin de chantiers.
+
+Acteur majeur du nettoyage industriel sur les départements de la Loire -..."
+Chanteur / Chanteuse,Spectacle,LIBERTE DE CHANTER,Occitanie,CDD,Temps partiel,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JXCQ,temps partiel - 3H Autre Salaire brut : 120€ net / prestation,Nous recherchons pour notre association un/e chanteur/euse pour variété française et internationale.
+Responsable administration et production (H/F),Spectacle,VIRGULE CTRE TRANSFRONTCREATION THEAT,Hauts-de-France,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JWYC,35H Autre Salaire brut : Groupe 4 de la CCNEAC,"Vos missions sous l'autorité du directeur et en collaboration avec la cheffe-comptable :
+- la gestion budgétaire, financière et administrative de l'association (entre autres : établissement et suivi..."
+Mannequin cabine / mannequin d'essayage   (F) (H/F),Spectacle,V2D CREATION,Hauts-de-France,CDD,Temps partiel,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185JSDT,temps partiel - 4H Autre Salaire brut : Horaire de 13.5 Euros sur 12 mois,Entreprise de création et de distribution de lingerie cherche des personnes pour collaborer avec les modélistes dans la mise au point des modèles en essayant des collections pendant les séances de...
+Chargé.e de production (H/F),Spectacle,ASSOCIATION CRESCENT,Bourgogne-Franche-Comté,CDI,Temps partiel,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185JLJF,temps partiel - 28H Autre Salaire brut : Mensuel de 1596.0 Euros sur 12.0 mois,"Description du poste et des fonctions
+Le poste comprend plusieurs fonctions :
+-       Budgétaire et administrative
+-       Logistique et technique
+-       Partenariats
+
+Détail des fonctions..."
+"Technicien.ne Opérateur.rice Machiniste/Cintrier, F/H/NB _",Spectacle,77 - CHESSY,Île-de-France,CDD,Temps plein,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185JKHC,35H Port et manipulation de charges lourdes Salaire brut : selon expérience,"Dans le cadre du Programme Préparation Opérationnelle à l'Emploi Individuelle, vous intégrerez une formation. Cette dernière est uniquement accessible aux demandeurs d'emploi, qu'ils soient en..."
+Régisseur général / Régisseuse générale (H/F),Spectacle,PROMO DEGEL,Bourgogne-Franche-Comté,CDI,Temps plein,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185JKCH,35H Autre Salaire brut : Groupe4 CCNEAC -Fonction expérience,"Sous l'autorité de la directrice, le-la régisseur-se général-e est responsable de la mise en œuvre technique du projet artistique et des activités du Moulin.
+A ce titre il-elle assure l'organisation..."
+Hôte / Hôtesse animation en mascotte pour parade de noel (H/F),Spectacle,TRINITY,Nouvelle-Aquitaine,CDD,Temps partiel,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185JHWG,temps partiel - 12H30 Autre Salaire brut : Horaire de 14.38 Euros sur 12.0 mois,"Nous avons besoin de deux personnes pour faire des mascottes pour la parade de noel dans un centre commercial 
+Samedi 14 décembre et dimanche 15 décembre 2024
+10h30 à 17h30 avec une heure de..."
+Régisseur général technique (H/F),Spectacle,AUDITORIUM ORCHESTRE NATIONAL LYON  ONL,Auvergne-Rhône-Alpes,CDD,Temps plein,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185HWXR,35H Autre Salaire brut : Grille Ville de Lyon,"Management et organisation
+
+encadrer le régisseur technique principal ainsi que le régisseur des activités satellites
+piloter les accueils techniques des évènements liés à la programmation et..."
+Hôte / Hôtesse animation en mascotte pour parade de noel (H/F),Spectacle,TRINITY,Centre-Val de Loire,CDD,Temps partiel,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185HRVQ,temps partiel - 12H30 Autre Salaire brut : Horaire de 14.38 Euros sur 12.0 mois,"Nous avons besoin de deux personnes pour faire des mascottes pour la parade de noel dans un centre commercial à Saint jean de la Ruelle 
+Samedi 21 décembre 2024
+10h30 à 17h30 avec une heure de..."
+Hôte / Hôtesse animation pour parade de noel (H/F),Spectacle,TRINITY,Centre-Val de Loire,CDD,Temps partiel,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185HRTC,temps partiel - 6H30 Autre Salaire brut : Horaire de 14.38 Euros sur 12.0 mois,"Nous avons besoin de deux personnes pour une déambulation en triporteur  pour une parade de Noel dans un centre commercial - habillage lutine de Noel 
+
+Samedi14 décembre 2024 de 10h30 à  12h30 et de..."
+Hôte / Hôtesse animation en mascotte pour parade de noel (H/F),Spectacle,TRINITY,Nouvelle-Aquitaine,CDD,Temps partiel,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185HRPS,temps partiel - 12H30 Autre Salaire brut : Horaire de 14.38 Euros sur 12.0 mois,"Nous avons besoin de deux personnes pour faire des mascottes pour la parade de noel dans un centre commercial à Ares Cap Ferret
+Samedi 14 décembre et dimanche 15 décembre 2024
+10h30 à 17h30 avec une..."
+Enseignant (e) en Animation 3D (H/F),Spectacle,31 - AUZEVILLE TOLOSANE,Occitanie,CDD,Temps partiel,2024-12-10,https://candidat.pole-emploi.fr/offres/recherche/detail/185HDRS,temps partiel - 20H Autre Salaire brut : Horaire de 43.0 Euros,"L'ESMA Toulouse recrute  un(e) enseignant(e) en Animation 3D auprès des étudiants en formation Cinéma d'Animation 3D et Effets Spéciaux.
+Poste à pourvoir en remplacement / CDD.
+
+Missions :
+- Cours..."
+Chargé-e de programmation jeune public (H/F),Spectacle,Cdc Ile de Ré,Nouvelle-Aquitaine,CDD,Temps plein,2024-12-10,https://candidat.pole-emploi.fr/offres/recherche/detail/185GZKT,"35H Autre
+Horaires irréguliers Salaire brut : Fonc cat C ou B ou contractuel","La Maline, équipement culturel intercommunal inauguré en mars 2022, est composée d'une salle de cinéma de 107 places et d'une salle de spectacle et de cinéma de 294 places. L'équipe compte 13 agents...."
+Régisseur Général de la Direction Culture et Animation (H/F),Spectacle,MAIRIE,Pays de la Loire,CDI,Temps plein,2024-12-10,https://candidat.pole-emploi.fr/offres/recherche/detail/185GPWL,35H Autre Salaire brut : Rémunération statutaire + RI,"Type d'emploi : Emploi permanent - vacance d'emploi
+Motif de vacance du poste : Poste vacant suite à une disponibilité
+Grade(s) recherché(s) : 
+- Technicien
+- Adjoint technique
+- Adjoint technique..."
+Régisseur.se général.e adjoint.e (H/F),Spectacle,ORCHESTRE PHILHARMONIQUE DE STRASBOURG,Grand Est,CDD,Temps plein,2024-12-10,https://candidat.pole-emploi.fr/offres/recherche/detail/185GNZP,35H Possibilité de télétravail Salaire brut : Mensuel de 2331.16 Euros à 2697.43 Euros sur 12.0 mois,"Sous l'autorité de la régisseuse générale, le-la régisseur.euse général.e adjoint.e contribue à la mise en œuvre des moyens humains, logistiques et techniques nécessaires à la réalisation des..."
+Monteur Video & Gestionnaire Reseaux Sociaux (H/F),Spectacle,KAMDO PRODUCTIONS,Centre-Val de Loire,CDI,Temps plein,2024-12-10,https://candidat.pole-emploi.fr/offres/recherche/detail/185GLVT,35H Autre Salaire brut : Mensuel de 2000.0 Euros sur 12.0 mois,"Description du poste :
+Nous recherchons une personne motivee et polyvalente pour integrer notre equipe en tant que monteur video et gestionnaire de reseaux sociaux. Vous aurez pour mission de..."
+Régisseur polyvalent spécialisé lumières (H/F),Spectacle,MAIRIE,Île-de-France,CDD,Temps plein,2024-12-09,https://candidat.pole-emploi.fr/offres/recherche/detail/185FYKL,35H Autre Salaire brut : Remuneration statutaire,"L'espace Culturel « Le Trèfle » en cours de construction ouvrira ses portes en fin d'année 2024. Il s'agit d'un équipement de 5500 m² qui regroupera une médiathèque, une salle polyvalente de 600..."
+Chargé / chargée de production et d'administration (H/F),Spectacle,ACADEMIE BACH,Normandie,CDI,Temps plein,2024-12-09,https://candidat.pole-emploi.fr/offres/recherche/detail/185FWRV,35H Autre Salaire brut : A partir du gr. 5 éch. 1 CCNEAC,"Pour cette prise de poste attendue à compter de janvier 2025, nous recherchons un profil avec les savoirs précisés ci-dessous :
+- Formation, qualification, expérience : formation supérieure de 3 ans..."
+Directeur / Directrice de production (H/F),Spectacle,ORCHESTRE PHILHARMONIQUE DE STRASBOURG,Grand Est,CDD,Temps plein,2024-12-09,https://candidat.pole-emploi.fr/offres/recherche/detail/185FSVJ,35H Possibilité de télétravail Salaire brut : Mensuel de 3016.0 Euros à 5147.0 Euros sur 12.0 mois,"Sous l'autorité de la directrice générale et en relation avec le directeur musical et artistique, membre de l'équipe de direction, le-la directeur-trice de production a pour mission de mettre en..."
+Chargé.e de production de tournées (H/F),Spectacle,TRANSE EXPRESS CIRCUS,Auvergne-Rhône-Alpes,CDD,Temps partiel,2024-12-09,https://candidat.pole-emploi.fr/offres/recherche/detail/185FRPZ,temps partiel - 16H Autre Salaire brut : Selon selon profil et expérience,"Au sein de l'équipe de diffusion et production de la compagnie, la personne recrutée sera responsable de la régie de tournée et participera à la stratégie de diffusion des spectacles du répertoire de..."
+Cavalier / Cavalière d'entraînement (H/F),Sport,SOCIETE D'ENTRAINEMENT FRANCIS-HENRI GRA,Hauts-de-France,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCFC,39H Travail en journée Salaire brut : Mensuel de 2116.0 Euros sur 12.0 mois,"L'écurie recrute des cavaliers d'entrainement H/F sérieux(euses) et motivé(e)s. 
+Une expérience dans les chevaux de course est fortement recommandée, mais un parcours en équitation classique pourra..."
+Joueur professionnel / Joueuse professionnelle de football (H/F),Sport,RODEO FOOTBALL CLUB,Occitanie,CDD,Temps plein,2024-12-11,https://candidat.pole-emploi.fr/offres/recherche/detail/185JGPN,35H Autre Salaire brut : négociation avec club,"Le club de Football Rodéo est en recherche de 2 joueurs professionnels de football à 11 en niveau national.
+
+Nous recherchons un latéral droit et un attaquant.
+Vous avez une expérience en tant..."
+Agent de production F/H,Sport,SYNERGIE,Provence-Alpes-Côte d'Azur,Intérim,Temps plein,2024-12-10,https://candidat.pole-emploi.fr/offres/recherche/detail/185HKPF,35H Travail en horaires décalés Salaire brut : Annuel de 21622.0 Euros à 25000.0 Euros sur 12.0 mois,"Notre client recherche un Jockey H/F.
+
+x LIEU DE TRAVAIL : Mougins (06)
+x HORAIRES DE TRAVAIL : Du lundi au vendredi - 7h10-10h//10h20-12h00/12h30-15h00
+x SALAIRE : 11,88 EUR H/B + TICKET..."
+Cavalier/cavalière  d'Entraînement Galop (H/F),Sport,SOCIETE D'ENTRAINEMENT HENRI ALEX PANTAL,Pays de la Loire,CDI,Temps plein,2024-12-03,https://candidat.pole-emploi.fr/offres/recherche/detail/184YFKD,35H Autre Salaire brut : Mensuel de 1900.00 Euros à 2000.00 Euros sur 12 mois,"Nous sommes ravis de vous présenter cette offre d'emploi pour le poste de *Cavalier d'Entraînement Galop*. Rejoignez notre centre privé dédié aux chevaux de Pur-Sang Galop, où un environnement..."
+Joueur professionnel de basket-ball (H/F),Sport,78 - TRAPPES,Île-de-France,CDD,Temps plein,2024-11-28,https://candidat.pole-emploi.fr/offres/recherche/detail/184TRKK,35H Autre Salaire brut : Annuel de 25000.0 Euros sur 12.0 mois,"Nous recherchons pour notre équipe masculine évoluant en national 3 un joueur évoluant au poste 5.
+
+Le joueur devra avoir eu une formation dans le championnat universitaire nord américain .
+
+Si..."
+Cavalier / cavaliere d'entraînement H / F (H/F),Sport,SOC D'ENTRAINEMENT FRANCOIS ROHAUT,Nouvelle-Aquitaine,CDI,Temps plein,2024-06-24,https://candidat.pole-emploi.fr/offres/recherche/detail/184NYKJ,35H Autre Salaire brut : selon convention collective,"Poste et missions :
+Nous recherchons cavalier(e) d'entraînement galop bon niveau d'équitation et motivé(e) pour intégrer une équipe de 25 salariés qui monte 80 chevaux de qualité.
+Possibilité de..."
+Cavalier / Cavalière d'entraînement (H/F),Sport,ENDALTSEV IGOR,Hauts-de-France,CDI,Temps plein,2024-06-14,https://candidat.pole-emploi.fr/offres/recherche/detail/184NQFB,35H Autre Salaire brut : Mensuel de 1812.0 Euros à 1900.0 Euros sur 12.0 mois,"Dresser et entraîner quotidiennement les chevaux sous la responsabilité d'un entraîneur.
+Assurer l'entretien des litières, les soins et le pansage des chevaux de course dont il a la..."
+Dresseur(se) de chevaux (H/F),Sport,GROUPEMENT D'EMPLOYEURS DEPARTEMENTAL DE,Nouvelle-Aquitaine,CDD,Temps plein,2024-05-25,https://candidat.pole-emploi.fr/offres/recherche/detail/184MQRT,35H Travail en journée Salaire brut : smic+10% de CP+10 % de précarité,"Nous recherchons une personne pour un remplacement maternité de 3 mois avec les compétences indiqué ci-dessous : 
+
+- Cavalier(e) ayant concouru en compétition niveau Pro 1/Grand Prix dressage..."
+Cavalier / Cavalière d'entraînement (H/F),Sport,60 - GOUVIEUX,Hauts-de-France,CDI,Temps plein,2024-05-05,https://candidat.pole-emploi.fr/offres/recherche/detail/184LHBV,39H Travail en journée Salaire brut : Primes,"Ecurie de galop située à Chantilly (60) cherche cavalier(e) d'entrainement: rigueur, expérience, bonne connaissance de l'animal, esprit d'équipe, fiabilité."
+Cavalier / Cavalière d'entraînement (H/F),Sport,BUDKA ADELAIDE,Hauts-de-France,CDI,Temps plein,2024-11-20,https://candidat.pole-emploi.fr/offres/recherche/detail/184LHBH,39H Travail en journée Salaire brut : selon le coefficient CCN 350,"Ecurie des chevaux au galop cherche un/une cavalier / cavalière d'entraînement. Nous apprécions le sérieux, la rigueur, le respect des chevaux, l'esprit d''équipe."
+Cavalier / Cavalière d'entraînement,Sport,LA FERME D'APREMONT SA,Hauts-de-France,CDD,Temps plein,2024-04-25,https://candidat.pole-emploi.fr/offres/recherche/detail/184JLCB,35H Travail le week-end Salaire brut : Mensuel de 1801.83 Euros sur 12.0 mois,Dressage de chevaux de polo  - Entrainement de chevaux de polo - soin des chevaux de polo - Préparation des chevaux de polo pour les matchs - Entretien des box - Savoir pratiquer la tonte des chevaux...
+Cavalier / Cavalière d'entraînement,Sport,LA FERME D'APREMONT SA,Hauts-de-France,CDD,Temps plein,2024-04-25,https://candidat.pole-emploi.fr/offres/recherche/detail/184JKZR,35H Travail le week-end Salaire brut : Mensuel de 1801.83 Euros sur 12.0 mois,Dressage de chevaux de polo  - Entrainement de chevaux de polo - soin des chevaux de polo - Préparation des chevaux de polo pour les matchs - Entretien des box - Savoir pratiquer la tonte des chevaux...
+Cavalier / Cavalière d'entraînement     (H/F),Sport,HARAS DE LA PLACIERE,Pays de la Loire,CDD,Temps plein,2024-04-25,https://candidat.pole-emploi.fr/offres/recherche/detail/184HQXL,37H30 Travail en journée Salaire brut : Horaire de 11.88 Euros sur 12.0 mois,"Vos missions : 
+Entraînement de jeunes chevaux de courses (galopeurs)
+- Monter 5 chevaux à la piste, jamais seul(e)
+- Soigner les chevaux et les nourrir
+- Entretenir les box
+
+Expérience souhaitée..."
+Coach sportif BOXE     (H/F),Sport,SAS L.R.B.G.,Auvergne-Rhône-Alpes,CDI,Temps partiel,2024-04-15,https://candidat.pole-emploi.fr/offres/recherche/detail/184HHTF,temps partiel - 20H Autre Salaire brut : à convenir,"Spécialité Boxe requise
+Au sein d'une nouvelle salle de Boxe et de Remise en forme à Craponne (Ouest Lyonnais), vous vous verrez confier l'animation de:
+
+- Cours collectifs: 
+- Boxe anglaise,..."
+Cavalier / Cavalière d'entraînement (H/F),Sport,SOCIETE D'ENTRAINEMENT JEROME DELAUNAY S,Pays de la Loire,CDI,Temps plein,2024-11-18,https://candidat.pole-emploi.fr/offres/recherche/detail/184HHHM,36H Autre Salaire brut : Selon expérience,"Écurie chevaux d'obstacles 
+Recherche cavalier d'entraînement pour monter des lots le matin du lundi au samedi."
+Ecurie de galop cherche cavalier/cavalière (H/F),Sport,SOC D ENTRAINEMENT MATHIEU BOUTIN,Hauts-de-France,CDI,Temps plein,2024-04-15,https://candidat.pole-emploi.fr/offres/recherche/detail/184GTQL,39H Travail en journée Salaire brut : selon le coefficient CCN 350,"Ecurie à Lamorlay cherche un cavalier/ere d'entraînement  expérimenté/e, autonome, sérieux/se et responsable, bon esprit d'équipe. Salaire suivant expérience et évolutif + primes + % sur gains."
+Cavalier / Cavalière d'Entraînement (H/F),Sport,SOCIETE D ENTRAINEMENT CARLOS LERNER,Île-de-France,CDI,Temps plein,2024-03-06,https://candidat.pole-emploi.fr/offres/recherche/detail/184CMFQ,39H Travail le week-end Salaire brut : Pourcentage écurie,"Nous sommes à la Recherche de notre futur Cavalier d'entraînement  qualifié et expérimenté (H/F).
+
+Vos principales missions :
+- Réaliser les exercices de préparation physique selon le programme..."
+Dresseur de chevaux de polo (H/F),Sport,SCEA LA MAGDELEINE,Île-de-France,CDD,Temps plein,2024-02-15,https://candidat.pole-emploi.fr/offres/recherche/detail/183SHNV,39H Autre Salaire brut : Mensuel de 2100.0 Euros à 2200.0 Euros sur 12.0 mois,"Nous recherchons 4 cavaliers dresseurs de chevaux polo (H/F) ayant 5 ans d'expérience minimum pour nous accompagner durant 10 mois, du 15 décembre 2024 au 15 octobre 2025.
+Activités principales:
+-..."
+Cavalier professionnel /Cavalière professionnelle(H/F)2024,Sport,SCA HARAS DE GASSIN,Provence-Alpes-Côte d'Azur,Saisonnier,Temps plein,2024-02-15,https://candidat.pole-emploi.fr/offres/recherche/detail/183JDHR,39H Autre Salaire brut : Mensuel de 2500.0 Euros sur 12.0 mois,"Le haras de Gassin recherche pour sa saison 2025 un/une polo manager cavalier professionnel expérimenté H/F pour la période de avril à septembre 2025.
+Vous organisez les compétitions de polo et les..."
+Cavalier /Cavalière professionnel(le) - Polo ManagerH/F 2024,Sport,SCA HARAS DE GASSIN,Provence-Alpes-Côte d'Azur,Saisonnier,Temps plein,2024-11-12,https://candidat.pole-emploi.fr/offres/recherche/detail/183JDHQ,39H Autre Salaire brut : Mensuel de 2500.0 Euros sur 12.0 mois,"Le haras de Gassin recherche pour sa saison 2025 un/une polo manager cavalier/cavalière professionnel (le) expérimenté(e) H/F pour la période de avril à septembre 2025.
+Vous organisez les..."
+MAGASINIER VENDEUR (H/F),Transport / Logistique,SFIC,Auvergne-Rhône-Alpes,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCQJ,35H Travail en journée Salaire brut : Mensuel de 2000.0 Euros à 2100.0 Euros sur 12.0 mois,"SFIC recrute un/une MAGASINIER VENDEUR
+
+Vous êtes un expert de l'organisation et votre bonne humeur est légendaire ? Alors, ces missions sont faites pour vous :
+
+ Vous assurez la préparation et..."
+Magasinier (F/H),Transport / Logistique,ADEQUAT 007,Provence-Alpes-Côte d'Azur,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCMX,35H Travail en horaires décalés Salaire brut : Mensuel de 1833.0 Euros à 2250.0 Euros sur 12.0 mois,"Notre agence Adéquat de Gap recrute des nouveaux profils en tant que Magasinier polyvalent pour une société de second oeuvre (H/F) :
+
+Missions :
+
+- rangement du dépôt
+
+- réception des livraisons
+
+-..."
+Manutentionnaire H/F,Transport / Logistique,ADEQUAT 059,Occitanie,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCMV,35H Travail en horaires décalés Salaire brut : Mensuel de 1802.0 Euros à 1833.0 Euros sur 12.0 mois,"Notre agence Adéquat de Boé recrute un manutentionnaire pour une mission d'une journée le 17/12/2024
+
+Vos futures missions :
+
+-Vider un camion
+
+dynamique
+
+14h-18h
+
+Le Profil Adéquat :
+
+- Sérieux..."
+AGENT LOGISTIQUE H/F,Transport / Logistique,ADEQUAT 022,Auvergne-Rhône-Alpes,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCMS,35H Travail en horaires décalés Salaire brut : Mensuel de 1802.0 Euros à 1833.0 Euros sur 12.0 mois,"L'Agence ADEQUAT de Meyzieu recherche pour l'un de ses clients spécialisés dans les pièces détachée automobile un ou une Opérateur LOGISTIQUE H/F
+
+Poste basé à SAINT-PRIEST (69800) a pourvoir..."
+Exploitant(e) transport,Transport / Logistique,ADEQUAT INTERIM,Île-de-France,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCMB,35H Travail en horaires décalés Salaire brut : Mensuel de 2250.0 Euros à 2750.0 Euros sur 12.0 mois,"Notre client spécialisé dans le secteur d'activité de l'affrètement et organisation des transports recherche un(e) exploitant transport de nuit.
+
+Vos missions en tant qu'exploitant transport
+
+ *..."
+Chef d'équipe en industrie de transformation F/H,Transport / Logistique,SYNERGIE,Hauts-de-France,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCLZ,"35H Travail posté (2x8, 3x8, 5x8, etc.) Salaire brut : Horaire de 11.88 Euros à 13.0 Euros sur 12.0 mois","Entrepôt logistique basé sur la E-Valley (Epinoy)Sous la responsabilité du responsable de site ou d'exploitation, vos tâches seront les suivantes : 
+- Gestion du personnel suivant la législation du..."
+MAGASINIER CARISTE (H/F),Transport / Logistique,SFIC,Centre-Val de Loire,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCKF,35H Travail en journée Salaire brut : Mensuel de 1900.0 Euros à 2000.0 Euros sur 12.0 mois,"SFIC recrute un/une MAGASINIER CARISTE
+
+Vous êtes un expert de l'organisation et appréciez le travail en équipe ? Alors, ces missions sont conçues pour vous :
+
+ Vous assurez la préparation et..."
+Cariste réceptionnaire (H/F),Transport / Logistique,CARREFOUR,Grand Est,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCHW,35H Travail le samedi Salaire brut : Horaire de 11.88 Euros sur 0.0 mois,"Nous recherchons un(e) cariste réceptionnaire H/F 
+
+En tant que Réceptionnaire - Cariste H/F, vos missions :
+
+Réaliser l'adressage des nouveaux produits
+Réaliser le traitement des commandes..."
+Magasinier (H/F),Transport / Logistique,INTERTIS,Île-de-France,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCHT,37H30 Travail en journée Salaire brut : Annuel de 28000.0 Euros à 30000.0 Euros sur 12.0 mois,"GIF EMPLOI, est un acteur du recrutement en intérim et CDI, référent sur les métiers techniques, qui cultive la proximité avec ses candidats, ses clients et les acteurs de la formation pour un..."
+Conducteur de car (H/F),Transport / Logistique,AQUILA RH,Nouvelle-Aquitaine,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCGK,35H Travail en journée Salaire brut : Annuel de 21622.0 Euros à 26622.0 Euros sur 12.0 mois,"Aquila RH Lot-et-Garonne : là où vos compétences rencontrent nos opportunités.
+
+Agence de recrutement en intérim, CDI, CDD, spécialisée dans le domaine de l'industrie, du transport, du BTP et de la..."
+Chauffeur-livreur / Chauffeuse-livreuse  (H/F),Transport / Logistique,GROUPE LES DELICES D'ORIENT,Pays de la Loire,CDD,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCDK,35H Autre Salaire brut : Mensuel de 1802.0 Euros à 2000.0 Euros sur 12.0 mois,"Nous recherchons un(e) chauffeur-livreur(se) motivé(e) et dynamique pour rejoindre notre équipe de livraison. 
+Transport et livraison : 
+- Assurer la bonne livraison des commandes pour les clients...."
+Chargé de Mission Logistique (H/F),Transport / Logistique,POINT P,Île-de-France,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCDC,35H Travail en journée Salaire brut : salaire selon profil,"POINT P recrute un/une Chargé de Mission Logistique
+
+Rejoignez notre parcours pépinière logistique en IDF !
+
+Vous souhaitez évoluer dans un environnement dynamique où vos compétences en logistique et..."
+Agent logistique (Réception - Magasin - Expédition) (H/F),Transport / Logistique,HEXAGON MANUFACTURING INTELLIGENCE MANAG,Centre-Val de Loire,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCCT,38H Travail en journée Salaire brut : Annuel de 26000.0 Euros à 30000.0 Euros sur 12.0 mois,"Titre du poste : Agent logistique (Réception - Magasin - Expédition) (h/f/x)
+Req ID : 1437
+Business Unit : GTM EMEA
+Localisation : Vendôme (41)
+
+Résumé :
+Nous recrutons un(e) Agent Logistique..."
+Dispatcheur / Dispatcheuse transport routier de particuliers,Transport / Logistique,AMBULANCES DU COUDRAY,Île-de-France,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KCBH,35H Travail en journée Salaire brut : Mensuel de 2800.0 Euros à 3500.0 Euros sur 12.0 mois,"Dans le cadre de notre développement d'activité de transport sanitaire, nous recherchons un / une dispatcheur H/F.
+Vos missions :
+- Prise d'appel, enregistrement et affectation des commandes des..."
+Opérateur polyvalent logistique F/H,Transport / Logistique,SYNERGIE,Pays de la Loire,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBZS,35H Autre Salaire brut : Horaire de 12.0 Euros à 13.0 Euros sur 12.0 mois,"Votre agence Synergie de Montoir de Bretagne recherche pour un de ses clients, spécialisé dans le logistique industrielle, un magasinier F/H pour une mission en journée normale.
+Vous serez en charge..."
+Chauffeur / Chauffeuse de poids lourd,Transport / Logistique,UNEAL COOPERATIVE UAB,Hauts-de-France,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBYH,"35H Autre
+Heures supplémentaires possibles Salaire brut : Selon profil","Nous recherchons un chauffeur PL ou SPL H/F 
+
+Vous êtes titulaire du permis C ou du permis CE
+
+Vous aurez pour missions : 
+- Livraison d'aliment du bétail dans les élevages
+- Vous travaillez en..."
+Chauffeur-magasinier / Chauffeuse-magasinière,Transport / Logistique,RUBIX FRANCE,Bourgogne-Franche-Comté,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBYF,35H Travail en journée Salaire brut : Mensuel de 1880.0 Euros à 1950.0 Euros sur 12.0 mois,"Au coeur de l'agence de Dijon, vos missions seront les suivantes :
+
+- Préparer les réservations et livraisons clients avec le conditionnement adéquat,
+
+- Réceptionner, contrôler et mettre en stock..."
+Conducteur/trice transport scolaire - Formation possible!  (H/F),Transport / Logistique,44 - GRANDCHAMPS DES FONTAINES,Pays de la Loire,CDI,Temps partiel,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBXF,temps partiel - 25H Autre Salaire brut : Horaire de 13.11 Euros sur 12.0 mois,"En tant que conducteur.trice de transport scolaire, vous serez en charge d'assurer l'acheminement des élèves de leur point de montée jusqu'à leur établissement scolaire durant les périodes scolaires..."
+Conducteur / Conductrice de bus urbain et interurbain       (H/F),Transport / Logistique,44 - GRANDCHAMPS DES FONTAINES,Pays de la Loire,CDI,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBTZ,35H Autre Salaire brut : Horaire de 13.11 Euros sur 13 mois,"Les Transports BRODU ne sont rien sans les femmes et les hommes qui la composent et malgré son envergure, notre société a gardé son caractère familial, ses valeurs et son savoir-faire depuis 1964.
+Le..."
+Gestionnaire approvisionnement (H/F),Transport / Logistique,CRIT,Grand Est,Intérim,Temps plein,2024-12-12,https://candidat.pole-emploi.fr/offres/recherche/detail/185KBSS,35H Travail en journée Salaire brut : Horaire de 11.88 Euros à 11.88 Euros sur 12.0 mois,"Dans le cadre du développement de son activité, nous recherchons pour notre client, spécialisé dans le secteur de la production de sel, un Gestionnaire approvisionnement (H/F).
+
+Vous aurez pour..."

@@ -52,15 +52,20 @@ def parse_job_listings(jobs):
     parsed_jobs = []
     for job in jobs:
         try:
+
             parsed_jobs.append({
-                "title": job.get("title"),
-                "company": job.get("company", {}).get("display_name"),
-                "location": job.get("location", {}).get("display_name"),
+                "intitulé": job.get("title"),
+                "catégorie": job.get("category", {}).get("tag"),
+                "entreprise": job.get("company", {}).get("display_name"),
+                "longitude": job.get("longitude"),
+                "latitude" : job.get("latitude"),
+                "type_contrat": job.get("contract_type"),
+                "temps_contrat": job.get("contract_time"),  
+                "date_publication": datetime.strptime(job["created"], "%Y-%m-%dT%H:%M:%SZ").strftime('%Y-%m-%d') if "created" in job else None,
+                "url": job.get("redirect_url"),
+                "salaire_min": job.get("salary_min"),
+                "salaire_max": job.get("salary_max"),
                 "description": job.get("description"),
-                "employment_type": job.get("contract_type"),
-                "contract_type": job.get("contract_time"),  # E.g., full-time, part-time
-                "date_posted": datetime.strptime(job["created"], "%Y-%m-%dT%H:%M:%SZ").strftime('%Y-%m-%d') if "created" in job else None,
-                "job_url": job.get("redirect_url"),
             })
         except Exception as e:
             print(f"Error parsing job: {e}")
