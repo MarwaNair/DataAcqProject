@@ -38,7 +38,7 @@ python data_transform.py
 ### Quality Assessment
 Assess the quality of the combined dataset using the Jupyter notebook:
 ```markdown
-adzuna_job_listings.ipynb
+Quality_Assessement.ipynb
 ```
 This notebook provides insights into the quality and structure of the extracted data.
 
