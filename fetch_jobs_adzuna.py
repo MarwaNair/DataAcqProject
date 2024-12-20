@@ -2,6 +2,7 @@ import requests
 import json
 import pandas as pd
 from datetime import datetime
+import argparse
 
 APP_ID = "e74b959f"  
 APP_KEY = "d0b8e5220b2e75aff9a3809295100015" 
@@ -52,7 +53,6 @@ def parse_job_listings(jobs):
     parsed_jobs = []
     for job in jobs:
         try:
-
             parsed_jobs.append({
                 "intitulé": job.get("title"),
                 "catégorie": job.get("category", {}).get("tag"),
@@ -73,10 +73,15 @@ def parse_job_listings(jobs):
 
 # Main script
 if __name__ == "__main__":
+    # Argument parsing
+    parser = argparse.ArgumentParser(description="Fetch job listings from Adzuna API.")
+    parser.add_argument("--pages", type=int, help="Total number of pages to fetch.")
+    args = parser.parse_args()
+
     # Define search parameters
     query = "AI"  # Modify to your desired job title
     results_per_page = 20  # Adjust the number of jobs per page
-    total_pages = 10  # Fetch 2 pages as an example
+    total_pages = args.pages  # Get total pages from arguments
     
     # Fetch job listings
     print("Fetching job listings...")

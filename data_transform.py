@@ -38,7 +38,6 @@ frt_category_mapping = {
 
 francetravail_df['catégorie'] = francetravail_df['catégorie'].map(frt_category_mapping)
 
-print("--------------------")
 # Salary extraction
 def extract_salary(desc):
     qa_pipeline = pipeline("question-answering", model="deepset/roberta-base-squad2",)
